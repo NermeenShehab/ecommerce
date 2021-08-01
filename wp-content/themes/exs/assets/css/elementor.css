@@ -1,0 +1,8 @@
+/*Elementor styles*/
+@media (min-width: 768px) {
+	.elementor-widget-wrap > .elementor-element.elementor-widget-button{
+		display: inline-block;
+		width: auto;
+		margin-bottom: 0 !important;
+	}
+}

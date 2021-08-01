@@ -1,0 +1,876 @@
+# Copyright (C) {2021} Firefly Themes
+msgid ""
+msgstr ""
+"Project-Id-Version: Elite Commerce 1.0.4\n"
+"Report-Msgid-Bugs-To: https://fireflythemes.com/support/\n"
+"POT-Creation-Date: 2021-07-24 06:53:01+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Firefly Themes <info@fireflythemes.com>\n"
+"Language-Team: Firefly Themes <info@fireflythemes.com>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: 404.php:21 inc/custom-header.php:126
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:26
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the "
+"links below or a search?"
+msgstr ""
+
+#: comments.php:35
+#. translators: 1: title.
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:30
+msgid "Go to Top"
+msgstr ""
+
+#: functions.php:69 template-parts/navigation/navigation-primary.php:19
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:70
+msgid "Social Menu"
+msgstr ""
+
+#: functions.php:170
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:172
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:177
+msgid "Slider Sidebar Left"
+msgstr ""
+
+#: functions.php:179
+msgid "Recommended: Product Category Widget, Menu Widget"
+msgstr ""
+
+#: functions.php:184
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:186 functions.php:193 functions.php:200
+msgid "Add widgets here to appear in your footer."
+msgstr ""
+
+#: functions.php:191
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:198
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:207
+msgid "WooCommerce Sidebar"
+msgstr ""
+
+#: functions.php:209
+msgid "This is Optional Sidebar for WooCommerce Pages"
+msgstr ""
+
+#: functions.php:366
+msgid "expand child menu"
+msgstr ""
+
+#: functions.php:367
+msgid "collapse child menu"
+msgstr ""
+
+#: header.php:26
+msgid "Skip to content"
+msgstr ""
+
+#: inc/breadcrumb.php:33
+msgid "Home"
+msgstr ""
+
+#: inc/breadcrumb.php:35
+#. translators: 1: before text/html, 2: after text/html.
+msgid "%1$s Archive for %2$s"
+msgstr ""
+
+#: inc/breadcrumb.php:37
+#. translators: 1: before text/html, 2: after text/html.
+msgid "%1$sSearch results for: %2$s"
+msgstr ""
+
+#: inc/breadcrumb.php:39
+#. translators: 1: before text/html, 2: after text/html.
+msgid "%1$sPosts tagged %2$s"
+msgstr ""
+
+#: inc/breadcrumb.php:41
+#. translators: 1: before text/html, 2: after text/html.
+msgid "%1$sView all posts by %2$s"
+msgstr ""
+
+#: inc/breadcrumb.php:42
+msgid "%1$sError 404%2$s"
+msgstr ""
+
+#: inc/breadcrumb.php:63 inc/breadcrumb.php:75
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/breadcrumb.php:99 inc/breadcrumb.php:101 inc/breadcrumb.php:105
+#: inc/breadcrumb.php:109 inc/template-tags.php:262 inc/template-tags.php:264
+msgid "Y"
+msgstr ""
+
+#: inc/breadcrumb.php:101 inc/breadcrumb.php:107
+msgid "F"
+msgstr ""
+
+#: inc/breadcrumb.php:103
+msgid "d"
+msgstr ""
+
+#: inc/breadcrumb.php:191
+#. translators: %s: current page number.
+msgid "Page %s"
+msgstr ""
+
+#: inc/custom-header.php:133 search.php:26
+#. translators: %s: search query.
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/customizer/customizer.php:61 inc/customizer/featured-product.php:54
+#: inc/customizer/product-categories.php:54
+#: inc/customizer/products-listing.php:60
+#: inc/customizer/promotional-headline.php:39 inc/customizer/slider.php:43
+#: inc/customizer/testimonial.php:52 inc/customizer/wwd.php:40
+msgid "Visible On"
+msgstr ""
+
+#: inc/customizer/customizer.php:70
+msgid "Elite Commerce Pro Available"
+msgstr ""
+
+#: inc/customizer/featured-product.php:40 inc/customizer/header-options.php:68
+#: inc/customizer/product-categories.php:40
+#: inc/customizer/products-listing.php:46 inc/customizer/slider.php:58
+#: inc/customizer/theme-options.php:92 inc/customizer/wwd.php:97
+#: inc/theme-about.php:45
+msgid "Info"
+msgstr ""
+
+#: inc/customizer/featured-product.php:41
+#: inc/customizer/product-categories.php:41
+#: inc/customizer/products-listing.php:47
+msgid "Install %1$sWooCommerce%2$s Plugin for this section."
+msgstr ""
+
+#: inc/customizer/featured-product.php:70
+msgid "Top Subtitle"
+msgstr ""
+
+#: inc/customizer/featured-product.php:81
+msgid "Select Product"
+msgstr ""
+
+#: inc/customizer/header-options.php:25
+msgid "Customer Support"
+msgstr ""
+
+#: inc/customizer/header-options.php:43
+msgid "Header Options"
+msgstr ""
+
+#: inc/customizer/header-options.php:58
+msgid "Login Icon/Link"
+msgstr ""
+
+#: inc/customizer/header-options.php:69
+msgid ""
+"If you want user icon, save \"far fa-user\". For more classes, check "
+"%1$sthis%2$s"
+msgstr ""
+
+#: inc/customizer/header-options.php:80
+msgid "Icon"
+msgstr ""
+
+#: inc/customizer/header-options.php:91
+msgid "Link"
+msgstr ""
+
+#: inc/customizer/header-options.php:102 inc/customizer/header-options.php:211
+#: inc/customizer/product-categories.php:124
+#: inc/customizer/products-listing.php:251
+msgid "Open link in new tab?"
+msgstr ""
+
+#: inc/customizer/header-options.php:120
+msgid "Header Top Options"
+msgstr ""
+
+#: inc/customizer/header-options.php:130
+msgid "Text"
+msgstr ""
+
+#: inc/customizer/header-options.php:140
+#: template-parts/header/quick-contact.php:22
+msgid "Email"
+msgstr ""
+
+#: inc/customizer/header-options.php:150
+#: template-parts/header/quick-contact.php:18
+msgid "Phone"
+msgstr ""
+
+#: inc/customizer/header-options.php:160
+msgid "Text Below Phone"
+msgstr ""
+
+#: inc/customizer/header-options.php:161
+msgid "Not Applicable for Header Style Two and Six"
+msgstr ""
+
+#: inc/customizer/header-options.php:171
+#: template-parts/header/quick-contact.php:26
+msgid "Address"
+msgstr ""
+
+#: inc/customizer/header-options.php:181
+#: template-parts/header/quick-contact.php:30
+msgid "Open Hours"
+msgstr ""
+
+#: inc/customizer/header-options.php:191
+#: inc/customizer/product-categories.php:102
+#: inc/customizer/products-listing.php:229
+msgid "Button Text"
+msgstr ""
+
+#: inc/customizer/header-options.php:201
+#: inc/customizer/product-categories.php:113
+#: inc/customizer/products-listing.php:240
+msgid "Button Link"
+msgstr ""
+
+#: inc/customizer/menu-options.php:46
+msgid "Display Primary"
+msgstr ""
+
+#: inc/customizer/menu-options.php:57
+msgid "Dark Primary Nav"
+msgstr ""
+
+#: inc/customizer/menu-options.php:69
+msgid "Display Category List on Primary Menu"
+msgstr ""
+
+#: inc/customizer/product-categories.php:22
+#: inc/customizer/products-listing.php:28
+msgid "View All"
+msgstr ""
+
+#: inc/customizer/product-categories.php:65
+#: inc/customizer/products-listing.php:82 inc/customizer/testimonial.php:78
+#: inc/customizer/wwd.php:66
+msgid "Section Title"
+msgstr ""
+
+#: inc/customizer/product-categories.php:76
+#: inc/customizer/products-listing.php:71 inc/customizer/testimonial.php:67
+#: inc/customizer/wwd.php:55
+msgid "Section Top Sub-title"
+msgstr ""
+
+#: inc/customizer/product-categories.php:87
+#: inc/customizer/products-listing.php:214
+msgid "Pick Product categories"
+msgstr ""
+
+#: inc/customizer/product-categories.php:92
+#: inc/customizer/products-listing.php:219 inc/customizer/theme-options.php:225
+msgid "--Select--"
+msgstr ""
+
+#: inc/customizer/products-listing.php:92 inc/customizer/slider.php:69
+#: inc/customizer/testimonial.php:88 inc/customizer/wwd.php:76
+msgid "Number"
+msgstr ""
+
+#: inc/customizer/products-listing.php:93 inc/customizer/slider.php:70
+#: inc/customizer/testimonial.php:89 inc/customizer/wwd.php:77
+msgid "Please refresh the customizer page once the number is changed."
+msgstr ""
+
+#: inc/customizer/products-listing.php:110
+msgid "Theme supports up to 6 columns"
+msgstr ""
+
+#: inc/customizer/products-listing.php:111
+msgid "No of Columns"
+msgstr ""
+
+#: inc/customizer/products-listing.php:128
+msgid "Paginate"
+msgstr ""
+
+#: inc/customizer/products-listing.php:139
+msgid "Order By"
+msgstr ""
+
+#: inc/customizer/products-listing.php:142
+msgid "Date - The date the product was published"
+msgstr ""
+
+#: inc/customizer/products-listing.php:143
+msgid "ID - The post ID of the product"
+msgstr ""
+
+#: inc/customizer/products-listing.php:144
+msgid "Menu Order - The Menu Order, if set (lower numbers display first)"
+msgstr ""
+
+#: inc/customizer/products-listing.php:145
+msgid "Popularity - The number of purchases"
+msgstr ""
+
+#: inc/customizer/products-listing.php:146
+msgid "Random"
+msgstr ""
+
+#: inc/customizer/products-listing.php:147
+msgid "Rating - The average product rating"
+msgstr ""
+
+#: inc/customizer/products-listing.php:148
+msgid "Title - The product title"
+msgstr ""
+
+#: inc/customizer/products-listing.php:159
+msgid "Products Filter"
+msgstr ""
+
+#: inc/customizer/products-listing.php:162
+msgid "None"
+msgstr ""
+
+#: inc/customizer/products-listing.php:163
+msgid "Retrieve on sale products"
+msgstr ""
+
+#: inc/customizer/products-listing.php:164
+msgid "Retrieve best selling products"
+msgstr ""
+
+#: inc/customizer/products-listing.php:165
+msgid "Retrieve top rated products"
+msgstr ""
+
+#: inc/customizer/products-listing.php:176
+msgid "Show only Products that are marked as Featured Products"
+msgstr ""
+
+#: inc/customizer/products-listing.php:187
+msgid "Order"
+msgstr ""
+
+#: inc/customizer/products-listing.php:190
+msgid "Ascending"
+msgstr ""
+
+#: inc/customizer/products-listing.php:191
+msgid "Descending"
+msgstr ""
+
+#: inc/customizer/products-listing.php:201
+msgid "Comma separated list of product SKUs"
+msgstr ""
+
+#: inc/customizer/products-listing.php:203
+msgid "SKUs"
+msgstr ""
+
+#: inc/customizer/promotional-headline.php:55
+msgid "Select Page"
+msgstr ""
+
+#: inc/customizer/reset.php:43
+msgid "Reset"
+msgstr ""
+
+#: inc/customizer/reset.php:44
+msgid "Caution! This action is irreversible. Press OK to continue."
+msgstr ""
+
+#: inc/customizer/reset.php:48
+msgid "Reset Section"
+msgstr ""
+
+#: inc/customizer/reset.php:49
+msgid "Caution! This action is irreversible. Press OK to reset the section."
+msgstr ""
+
+#: inc/customizer/slider.php:59
+msgid ""
+"For Slider left Section, add widgets to Slider Sidabar Left, form Widgets "
+"Section %1$shere%2$s"
+msgstr ""
+
+#: inc/customizer/slider.php:91
+msgid "Page #"
+msgstr ""
+
+#: inc/customizer/slider.php:114
+msgid "Slider Advance Options"
+msgstr ""
+
+#: inc/customizer/slider.php:126
+msgid "Autoplay"
+msgstr ""
+
+#: inc/customizer/slider.php:137
+msgid "Autoplay Delay"
+msgstr ""
+
+#: inc/customizer/slider.php:138
+msgid "(in ms)"
+msgstr ""
+
+#: inc/customizer/sortable-sections.php:15
+msgid "Sections"
+msgstr ""
+
+#: inc/customizer/sortable-sections.php:62
+msgid "Section layout"
+msgstr ""
+
+#: inc/customizer/sortable-sections.php:75
+msgid "Slider"
+msgstr ""
+
+#: inc/customizer/sortable-sections.php:76
+msgid "What We Do"
+msgstr ""
+
+#: inc/customizer/sortable-sections.php:77
+msgid "Product Categories"
+msgstr ""
+
+#: inc/customizer/sortable-sections.php:78
+msgid "Products Listing"
+msgstr ""
+
+#: inc/customizer/sortable-sections.php:79
+msgid "Promotion Headline"
+msgstr ""
+
+#: inc/customizer/sortable-sections.php:80
+msgid "Featured Product"
+msgstr ""
+
+#: inc/customizer/sortable-sections.php:81
+msgid "Testimonials"
+msgstr ""
+
+#: inc/customizer/testimonial.php:110 inc/customizer/wwd.php:121
+msgid "Select Page #"
+msgstr ""
+
+#: inc/customizer/theme-options.php:47
+msgid "Continue reading"
+msgstr ""
+
+#: inc/customizer/theme-options.php:69
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer/theme-options.php:81
+msgid "Breadcrumb"
+msgstr ""
+
+#: inc/customizer/theme-options.php:93
+msgid ""
+"Since Breadcrumb NavXT Plugin is installed, edit plugin's settings "
+"%1$shere%2$s"
+msgstr ""
+
+#: inc/customizer/theme-options.php:106
+msgid "Display Breadcrumb?"
+msgstr ""
+
+#: inc/customizer/theme-options.php:116
+msgid "Show on homepage?"
+msgstr ""
+
+#: inc/customizer/theme-options.php:129
+msgid "Layouts"
+msgstr ""
+
+#: inc/customizer/theme-options.php:139
+msgid "Default Layout"
+msgstr ""
+
+#: inc/customizer/theme-options.php:142 inc/customizer/theme-options.php:156
+#: inc/customizer/theme-options.php:170
+msgid "Right Sidebar"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "No Sidebar: Full Width"
+msgstr ""
+
+#: inc/customizer/theme-options.php:153
+msgid "Homepage/Archive Layout"
+msgstr ""
+
+#: inc/customizer/theme-options.php:167
+msgid "WooCommerce Pages Layout"
+msgstr ""
+
+#: inc/customizer/theme-options.php:184
+msgid "Excerpt Options"
+msgstr ""
+
+#: inc/customizer/theme-options.php:194
+msgid "Excerpt Length (Words)"
+msgstr ""
+
+#: inc/customizer/theme-options.php:204
+msgid "Excerpt More Text"
+msgstr ""
+
+#: inc/customizer/theme-options.php:219
+msgid "Filter Homepage/Blog page posts by following categories"
+msgstr ""
+
+#: inc/customizer/theme-options.php:220
+msgid "Categories"
+msgstr ""
+
+#: inc/customizer/theme-options.php:234
+msgid "Show Home Content/Blog"
+msgstr ""
+
+#: inc/customizer/utilities.php:107
+#. translators: 1: Post ID.
+msgid "ID: %s No Title"
+msgstr ""
+
+#: inc/customizer/utilities.php:123
+msgid "Disabled"
+msgstr ""
+
+#: inc/customizer/utilities.php:124
+msgid "Homepage / Frontpage"
+msgstr ""
+
+#: inc/customizer/utilities.php:125
+msgid "Entire Site"
+msgstr ""
+
+#: inc/customizer/wwd.php:98
+msgid ""
+"If you want camera icon, save \"fas fa-camera\". For more classes, check "
+"%1$sthis%2$s"
+msgstr ""
+
+#: inc/customizer/wwd.php:110
+msgid "Item #"
+msgstr ""
+
+#: inc/customizer/wwd.php:137 inc/woocommerce.php:269 inc/woocommerce.php:369
+msgid "Icon Class"
+msgstr ""
+
+#: inc/customizer/wwd.php:148
+msgid "Image"
+msgstr ""
+
+#: inc/template-functions.php:271
+#. translators: %s: Name of current post
+msgid "Scroll Up"
+msgstr ""
+
+#: inc/template-tags.php:75
+#. translators: used between list items, there is a space after the comma
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:83
+#. translators: 1: list of categories.
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:104
+#. translators: 1: list of tags.
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:141
+#. translators: %s: post title
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-tags.php:158 template-parts/content/content-page.php:44
+#. translators: %s: Name of current post. Only visible to screen readers
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/template-tags.php:262 inc/template-tags.php:264
+msgid "Elite Commerce by"
+msgstr ""
+
+#: inc/theme-about.php:19
+msgid "About Theme"
+msgstr ""
+
+#: inc/theme-about.php:47
+msgid "Documentation"
+msgstr ""
+
+#: inc/theme-about.php:49
+msgid "Demo"
+msgstr ""
+
+#: inc/theme-about.php:51
+msgid "Support"
+msgstr ""
+
+#: inc/theme-about.php:68
+msgid "Return to Updates"
+msgstr ""
+
+#: inc/theme-about.php:68
+msgid "Return to Dashboard &rarr; Updates"
+msgstr ""
+
+#: inc/theme-about.php:71
+msgid "Go to Dashboard &rarr; Home"
+msgstr ""
+
+#: inc/theme-about.php:71
+msgid "Go to Dashboard"
+msgstr ""
+
+#: inc/theme-about.php:85
+msgid "Theme Customizer"
+msgstr ""
+
+#: inc/theme-about.php:86
+msgid "All Theme Options are available via Customize screen."
+msgstr ""
+
+#: inc/theme-about.php:87
+msgid "Customize"
+msgstr ""
+
+#: inc/theme-about.php:91
+msgid "Got theme support question?"
+msgstr ""
+
+#: inc/theme-about.php:92
+msgid ""
+"Get genuine support from genuine people. Whether it's customization or "
+"compatibility, our seasoned developers deliver tailored solutions to your "
+"queries."
+msgstr ""
+
+#: inc/theme-about.php:93
+msgid "Support Forum"
+msgstr ""
+
+#: inc/woocommerce.php:135
+msgid "View your shopping cart"
+msgstr ""
+
+#: inc/woocommerce.php:267 inc/woocommerce.php:366
+msgid ""
+"Icon takes Priority Over Image. If you want camera icon, save \"fas "
+"fa-camera\". For more classes, check %1$sthis%2$s"
+msgstr ""
+
+#: inc/woocommerce.php:272 inc/woocommerce.php:374
+msgid "Icon Image"
+msgstr ""
+
+#: inc/woocommerce.php:276 inc/woocommerce.php:380
+msgid "Upload/Add image"
+msgstr ""
+
+#: inc/woocommerce.php:277 inc/woocommerce.php:381
+msgid "Remove image"
+msgstr ""
+
+#: inc/woocommerce.php:301 inc/woocommerce.php:405
+msgid "Choose an image"
+msgstr ""
+
+#: inc/woocommerce.php:303 inc/woocommerce.php:407
+msgid "Use image"
+msgstr ""
+
+#: searchform.php:11
+msgid "Search ..."
+msgstr ""
+
+#: single.php:23
+msgid "Previous"
+msgstr ""
+
+#: single.php:24
+msgid "Next"
+msgstr ""
+
+#: template-parts/content/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content/content-none.php:24
+#. translators: 1: link to WP admin new post page.
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content/content-page.php:31
+#: template-parts/content/content-single.php:46
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content/content-single.php:35
+#. translators: %s: Name of current post. Only visible to screen readers
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: template-parts/header/header-one.php:23
+msgid "Top Bar"
+msgstr ""
+
+#: template-parts/header/header-one.php:40
+#: template-parts/header/header-one.php:77
+#: template-parts/header/header-social.php:10
+msgid "Social Links Menu"
+msgstr ""
+
+#: template-parts/header/header-search.php:9
+msgid "Search"
+msgstr ""
+
+#: template-parts/header/product-cat-search.php:14
+#: template-parts/header/product-cat-search.php:44
+msgid "Search Products..."
+msgstr ""
+
+#: template-parts/header/product-cat-search.php:33
+msgid "All Categories"
+msgstr ""
+
+#: template-parts/header/product-category-list.php:14
+msgid " All Categories"
+msgstr ""
+
+#: template-parts/navigation/navigation-primary.php:15
+msgid "Menu"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Elite Commerce"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://fireflythemes.com/themes/elite-commerce/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Elite Commerce an eCommerce WordPress theme for your eCommerce Website. "
+"Elite Commerce supports WooCommerce Plugin fully along with YITH Wishlist, "
+"Translatepress and WooCommerce Currency Switcher plugin along with "
+"supporting plugins such as Jetpack for infinite scroll and Breadcrunb NXT "
+"for advanced breadcrumb solution. Elite Commerce supports features like "
+"Featured Product Section to highlight your single product, Product "
+"categories section to highlight your WooCommerce Product Category, Product "
+"Listing to list your products, Promotion Headline to highlight your single "
+"content, testimonials to show your customer testimonials, What We do "
+"section highlight content with icons and many other enhancements like "
+"header cart, wishlist, Product widget with icon/image and may more "
+"features. We also provide free support for our product at "
+"https://fireflythemes.com/support. Visit "
+"https://fireflythemes.com/documentation/elite-commerce for theme "
+"documentation and https://demo.fireflythemes.com/elite-commerce for demo."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "FireFly Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://fireflythemes.com/"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Right Sidebar ( Content, Primary Sidebar )"
+msgstr ""
+
+#: comments.php:41
+#. translators: 1: comment count number, 2: title.
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:272
+#. Translators: If there are characters in your language that are not supported
+#. by Roboto, translate this to 'off'. Do not translate into your own language.
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/template-tags.php:100
+#. translators: used between list items, there is a space after the comma
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:262 inc/template-tags.php:264
+msgctxt "1: Year, 2: Site Title with home URL, 3: Privacy Policy Link"
+msgid "Copyright &copy; %1$s %2$s %3$s"
+msgstr ""
+
+#: searchform.php:10 template-parts/header/product-cat-search.php:43
+msgctxt "label"
+msgid "Search for:"
+msgstr ""

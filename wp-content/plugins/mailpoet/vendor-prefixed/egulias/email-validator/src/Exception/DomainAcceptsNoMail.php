@@ -1,0 +1,2 @@
+<?php
+ namespace MailPoetVendor\Egulias\EmailValidator\Exception; if (!defined('ABSPATH')) exit; class DomainAcceptsNoMail extends \MailPoetVendor\Egulias\EmailValidator\Exception\InvalidEmail { const CODE = 154; const REASON = 'Domain accepts no mail (Null MX, RFC7505)'; } 

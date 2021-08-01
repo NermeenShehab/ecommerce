@@ -1,0 +1,13 @@
+/*
+Theme Name: mytheme
+Theme URI: https://wordpress.org/themes/mytheme/
+Author: Nermeen
+Author URI: https://wordpress.org/
+*/
+
+.content {
+    border-bottom: 2px solid black;
+    font-size: large;
+    margin-top: 50px;
+    padding-top: 50px;
+}

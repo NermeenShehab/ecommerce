@@ -1,0 +1,32 @@
+.cww-pro-msg-wrapp {
+    background: #2271b1;
+    padding: 15px 12px;
+    font-size: 14px;
+    line-height: 1.6;
+    color: #fff;
+}
+
+
+/* =============== Customizer Icons ===============*/
+.customize-pane-parent .control-section .accordion-section-title:before {
+     font-family: dashicons;
+     content: " ";
+     font-size: 20px;
+     margin-right: 5px;
+     vertical-align: middle;
+ }
+
+li#accordion-panel-cww_homepage_panel .accordion-section-title:before{
+     content: "\f102";
+ }
+ li#accordion-section-cww_header_section .accordion-section-title:before{
+     content: "\f349";
+ }
+
+ li#accordion-section-cww_social_icons_section .accordion-section-title:before{
+     content: "\f237";
+ }
+
+li#accordion-section-cww_footer_section .accordion-section-title:before{
+     content: "\f209";
+ }

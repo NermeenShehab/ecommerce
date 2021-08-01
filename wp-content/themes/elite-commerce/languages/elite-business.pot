@@ -1,0 +1,3595 @@
+# Copyright (C) {2021} Firefly Themes
+msgid ""
+msgstr ""
+"Project-Id-Version: Elite Commerce Pro 1.0.2\n"
+"Report-Msgid-Bugs-To: https://fireflythemes.com/support/\n"
+"POT-Creation-Date: 2021-05-30 10:41:55+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Firefly Themes <info@fireflythemes.com>\n"
+"Language-Team: Firefly Themes <info@fireflythemes.com>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: inc/customizer/testimonial.php:418
+msgid "1"
+msgstr ""
+
+#: inc/customizer/testimonial.php:419
+msgid "2"
+msgstr ""
+
+#: inc/customizer/testimonial.php:420
+msgid "3"
+msgstr ""
+
+#: inc/customizer/testimonial.php:421
+msgid "4"
+msgstr ""
+
+#: inc/customizer/testimonial.php:422
+msgid "5"
+msgstr ""
+
+#: 404.php:24 inc/custom-header.php:156
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:29
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the "
+"links below or a search?"
+msgstr ""
+
+#: comments.php:35
+#. translators: 1: title.
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:30
+msgid "Go to Top"
+msgstr ""
+
+#: functions.php:69 template-parts/navigation/navigation-primary.php:19
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:70
+msgid "Social Menu"
+msgstr ""
+
+#: functions.php:170 inc/customizer/basic-colors.php:68
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:172 functions.php:292 functions.php:299 functions.php:306
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:177
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:179 functions.php:186 functions.php:193 functions.php:200
+#: functions.php:207
+msgid "Add widgets here to appear in your footer."
+msgstr ""
+
+#: functions.php:184
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:191
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:198
+msgid "Footer 4"
+msgstr ""
+
+#: functions.php:205
+msgid "Footer 5"
+msgstr ""
+
+#: functions.php:214
+msgid "WooCommerce Sidebar"
+msgstr ""
+
+#: functions.php:216
+msgid "This is Optional Sidebar for WooCommerce Pages"
+msgstr ""
+
+#: functions.php:223
+msgid "404 Page Not Found Content"
+msgstr ""
+
+#: functions.php:225
+msgid "Replaces the default 404 Page Not Found Content"
+msgstr ""
+
+#: functions.php:234
+msgid "Optional Homepage Sidebar"
+msgstr ""
+
+#: functions.php:236
+msgid "This is Optional Sidebar for Homepage"
+msgstr ""
+
+#: functions.php:242
+msgid "Optional Archive Sidebar"
+msgstr ""
+
+#: functions.php:244
+msgid "This is Optional Sidebar for Archive"
+msgstr ""
+
+#: functions.php:250
+msgid "Optional Page Sidebar"
+msgstr ""
+
+#: functions.php:252
+msgid "This is Optional Sidebar for Page"
+msgstr ""
+
+#: functions.php:258
+msgid "Optional Post Sidebar"
+msgstr ""
+
+#: functions.php:260
+msgid "This is Optional Sidebar for Post"
+msgstr ""
+
+#: functions.php:266 inc/metabox.php:35
+msgid "Optional Sidebar One"
+msgstr ""
+
+#: functions.php:268
+msgid "This is Optional Sidebar One"
+msgstr ""
+
+#: functions.php:274 inc/metabox.php:36
+msgid "Optional Sidebar Two"
+msgstr ""
+
+#: functions.php:276
+msgid "This is Optional Sidebar Two"
+msgstr ""
+
+#: functions.php:282
+msgid "Optional Sidebar Three"
+msgstr ""
+
+#: functions.php:284
+msgid "This is Optional Sidebar Three"
+msgstr ""
+
+#: functions.php:290 inc/customizer/sortable-sections.php:91
+msgid "Content Widget Area 1"
+msgstr ""
+
+#: functions.php:297 inc/customizer/sortable-sections.php:94
+msgid "Content Widget Area 2"
+msgstr ""
+
+#: functions.php:304 inc/customizer/sortable-sections.php:98
+msgid "Content Widget Area 3"
+msgstr ""
+
+#: functions.php:537
+msgid "expand child menu"
+msgstr ""
+
+#: functions.php:538
+msgid "collapse child menu"
+msgstr ""
+
+#: header.php:26
+msgid "Skip to content"
+msgstr ""
+
+#: inc/breadcrumb.php:33
+msgid "Home"
+msgstr ""
+
+#: inc/breadcrumb.php:35
+#. translators: 1: before text/html, 2: after text/html.
+msgid "%1$s Archive for %2$s"
+msgstr ""
+
+#: inc/breadcrumb.php:37
+#. translators: 1: before text/html, 2: after text/html.
+msgid "%1$sSearch results for: %2$s"
+msgstr ""
+
+#: inc/breadcrumb.php:39
+#. translators: 1: before text/html, 2: after text/html.
+msgid "%1$sPosts tagged %2$s"
+msgstr ""
+
+#: inc/breadcrumb.php:41
+#. translators: 1: before text/html, 2: after text/html.
+msgid "%1$sView all posts by %2$s"
+msgstr ""
+
+#: inc/breadcrumb.php:42
+msgid "%1$sError 404%2$s"
+msgstr ""
+
+#: inc/breadcrumb.php:63 inc/breadcrumb.php:75
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/breadcrumb.php:99 inc/breadcrumb.php:101 inc/breadcrumb.php:105
+#: inc/breadcrumb.php:109 template-parts/footer/site-info.php:39
+#: template-parts/footer/site-info.php:53
+#: template-parts/footer/site-info.php:65
+msgid "Y"
+msgstr ""
+
+#: inc/breadcrumb.php:101 inc/breadcrumb.php:107
+msgid "F"
+msgstr ""
+
+#: inc/breadcrumb.php:103
+msgid "d"
+msgstr ""
+
+#: inc/breadcrumb.php:191
+#. translators: %s: current page number.
+msgid "Page %s"
+msgstr ""
+
+#: inc/custom-header.php:163 search.php:26
+#. translators: %s: search query.
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/customizer/associate-logo.php:69 inc/customizer/contact-form.php:59
+#: inc/customizer/content-widgets.php:53 inc/customizer/content-widgets.php:101
+#: inc/customizer/content-widgets.php:149 inc/customizer/counter.php:53
+#: inc/customizer/customizer.php:65 inc/customizer/featured-content.php:63
+#: inc/customizer/featured-grid.php:63 inc/customizer/featured-product.php:68
+#: inc/customizer/featured-video.php:53 inc/customizer/filter-content.php:52
+#: inc/customizer/hero-content.php:54 inc/customizer/key-features.php:54
+#: inc/customizer/news-events.php:57 inc/customizer/playlist.php:53
+#: inc/customizer/portfolio.php:62 inc/customizer/pricing.php:52
+#: inc/customizer/product-categories.php:66
+#: inc/customizer/products-listing.php:71
+#: inc/customizer/promotional-headline.php:54 inc/customizer/skill.php:79
+#: inc/customizer/slider.php:65 inc/customizer/team.php:62
+#: inc/customizer/testimonial.php:62 inc/customizer/wwd.php:61
+msgid "Visible On"
+msgstr ""
+
+#: inc/customizer/associate-logo.php:85 inc/customizer/contact-form.php:75
+#: inc/customizer/content-widgets.php:64 inc/customizer/content-widgets.php:112
+#: inc/customizer/content-widgets.php:160 inc/customizer/counter.php:69
+#: inc/customizer/featured-content.php:79 inc/customizer/featured-grid.php:79
+#: inc/customizer/featured-product.php:79 inc/customizer/featured-video.php:64
+#: inc/customizer/filter-content.php:68 inc/customizer/hero-content.php:65
+#: inc/customizer/key-features.php:70 inc/customizer/news-events.php:73
+#: inc/customizer/playlist.php:64 inc/customizer/portfolio.php:78
+#: inc/customizer/pricing.php:68 inc/customizer/promotional-headline.php:65
+#: inc/customizer/skill.php:95 inc/customizer/slider.php:80
+#: inc/customizer/team.php:77 inc/customizer/testimonial.php:77
+#: inc/customizer/wwd.php:76
+msgid "Select Pages"
+msgstr ""
+
+#: inc/customizer/associate-logo.php:86 inc/customizer/contact-form.php:76
+#: inc/customizer/content-widgets.php:65 inc/customizer/content-widgets.php:113
+#: inc/customizer/content-widgets.php:161 inc/customizer/counter.php:70
+#: inc/customizer/featured-content.php:80 inc/customizer/featured-grid.php:80
+#: inc/customizer/featured-product.php:80 inc/customizer/featured-video.php:65
+#: inc/customizer/filter-content.php:69 inc/customizer/hero-content.php:66
+#: inc/customizer/key-features.php:71 inc/customizer/news-events.php:74
+#: inc/customizer/playlist.php:65 inc/customizer/portfolio.php:79
+#: inc/customizer/pricing.php:69 inc/customizer/promotional-headline.php:66
+#: inc/customizer/skill.php:96 inc/customizer/slider.php:81
+#: inc/customizer/team.php:78 inc/customizer/testimonial.php:78
+#: inc/customizer/wwd.php:77
+msgid "Show this section only on these pages"
+msgstr ""
+
+#: inc/customizer/associate-logo.php:93 inc/customizer/associate-logo.php:196
+#: inc/customizer/associate-logo.php:211 inc/customizer/associate-logo.php:226
+#: inc/customizer/associate-logo.php:241 inc/customizer/contact-form.php:83
+#: inc/customizer/content-widgets.php:72 inc/customizer/content-widgets.php:120
+#: inc/customizer/content-widgets.php:168 inc/customizer/counter.php:77
+#: inc/customizer/featured-content.php:87
+#: inc/customizer/featured-content.php:217
+#: inc/customizer/featured-content.php:232
+#: inc/customizer/featured-content.php:247
+#: inc/customizer/featured-content.php:262 inc/customizer/featured-grid.php:87
+#: inc/customizer/featured-grid.php:237 inc/customizer/featured-grid.php:252
+#: inc/customizer/featured-grid.php:267 inc/customizer/featured-grid.php:282
+#: inc/customizer/featured-product.php:87 inc/customizer/featured-video.php:72
+#: inc/customizer/filter-content.php:76 inc/customizer/filter-content.php:161
+#: inc/customizer/hero-content.php:73 inc/customizer/key-features.php:78
+#: inc/customizer/key-features.php:206 inc/customizer/key-features.php:221
+#: inc/customizer/key-features.php:236 inc/customizer/key-features.php:251
+#: inc/customizer/news-events.php:81 inc/customizer/news-events.php:215
+#: inc/customizer/news-events.php:230 inc/customizer/news-events.php:245
+#: inc/customizer/news-events.php:260 inc/customizer/playlist.php:72
+#: inc/customizer/portfolio.php:86 inc/customizer/portfolio.php:216
+#: inc/customizer/portfolio.php:231 inc/customizer/portfolio.php:246
+#: inc/customizer/portfolio.php:261 inc/customizer/pricing.php:76
+#: inc/customizer/product-categories.php:127
+#: inc/customizer/products-listing.php:241
+#: inc/customizer/promotional-headline.php:73 inc/customizer/skill.php:103
+#: inc/customizer/slider.php:88 inc/customizer/slider.php:162
+#: inc/customizer/slider.php:177 inc/customizer/slider.php:192
+#: inc/customizer/slider.php:207 inc/customizer/team.php:85
+#: inc/customizer/team.php:197 inc/customizer/team.php:212
+#: inc/customizer/team.php:227 inc/customizer/team.php:242
+#: inc/customizer/testimonial.php:85 inc/customizer/testimonial.php:220
+#: inc/customizer/testimonial.php:235 inc/customizer/testimonial.php:250
+#: inc/customizer/testimonial.php:265 inc/customizer/theme-options.php:486
+#: inc/customizer/utilities.php:138 inc/customizer/wwd.php:84
+#: inc/customizer/wwd.php:247 inc/customizer/wwd.php:262
+#: inc/customizer/wwd.php:277 inc/customizer/wwd.php:292
+msgid "--Select--"
+msgstr ""
+
+#: inc/customizer/associate-logo.php:110
+#: inc/customizer/featured-content.php:121 inc/customizer/featured-grid.php:119
+#: inc/customizer/filter-content.php:93 inc/customizer/key-features.php:121
+#: inc/customizer/news-events.php:131 inc/customizer/portfolio.php:120
+#: inc/customizer/pricing.php:93 inc/customizer/product-categories.php:99
+#: inc/customizer/products-listing.php:82 inc/customizer/team.php:117
+#: inc/customizer/testimonial.php:124 inc/customizer/wwd.php:118
+msgid "Section Top Sub-title"
+msgstr ""
+
+#: inc/customizer/associate-logo.php:121
+#: inc/customizer/featured-content.php:132 inc/customizer/featured-grid.php:130
+#: inc/customizer/filter-content.php:104 inc/customizer/key-features.php:132
+#: inc/customizer/news-events.php:142 inc/customizer/portfolio.php:131
+#: inc/customizer/pricing.php:104 inc/customizer/product-categories.php:77
+#: inc/customizer/products-listing.php:93 inc/customizer/team.php:128
+#: inc/customizer/testimonial.php:135 inc/customizer/theme-options.php:554
+#: inc/customizer/wwd.php:129
+msgid "Section Title"
+msgstr ""
+
+#: inc/customizer/associate-logo.php:132
+#: inc/customizer/featured-content.php:143 inc/customizer/featured-grid.php:141
+#: inc/customizer/filter-content.php:115 inc/customizer/key-features.php:143
+#: inc/customizer/news-events.php:153 inc/customizer/portfolio.php:142
+#: inc/customizer/pricing.php:115 inc/customizer/product-categories.php:88
+#: inc/customizer/products-listing.php:104 inc/customizer/team.php:139
+#: inc/customizer/testimonial.php:146 inc/customizer/wwd.php:140
+msgid "Section Subtitle"
+msgstr ""
+
+#: inc/customizer/associate-logo.php:143 inc/customizer/contact-form.php:104
+#: inc/customizer/featured-content.php:154 inc/customizer/featured-grid.php:152
+#: inc/customizer/hero-content.php:95 inc/customizer/key-features.php:154
+#: inc/customizer/news-events.php:164 inc/customizer/playlist.php:110
+#: inc/customizer/portfolio.php:153 inc/customizer/promotional-headline.php:95
+#: inc/customizer/slider.php:105 inc/customizer/team.php:150
+#: inc/customizer/testimonial.php:157 inc/customizer/wwd.php:151
+msgid "Type"
+msgstr ""
+
+#: inc/customizer/associate-logo.php:154
+msgid "Six Columns"
+msgstr ""
+
+#: inc/customizer/associate-logo.php:161
+#: inc/customizer/featured-content.php:166 inc/customizer/featured-grid.php:164
+#: inc/customizer/filter-content.php:126 inc/customizer/portfolio.php:164
+#: inc/customizer/pricing.php:126 inc/customizer/product-categories.php:110
+#: inc/customizer/team.php:161 inc/customizer/testimonial.php:168
+#: inc/customizer/wwd.php:162
+msgid "Layout"
+msgstr ""
+
+#: inc/customizer/associate-logo.php:172 inc/customizer/counter.php:130
+#: inc/customizer/counter.php:187 inc/customizer/featured-content.php:177
+#: inc/customizer/featured-grid.php:175 inc/customizer/filter-content.php:137
+#: inc/customizer/key-features.php:165 inc/customizer/news-events.php:175
+#: inc/customizer/portfolio.php:176 inc/customizer/pricing.php:137
+#: inc/customizer/products-listing.php:114 inc/customizer/slider.php:138
+#: inc/customizer/team.php:173 inc/customizer/testimonial.php:180
+#: inc/customizer/wwd.php:196
+msgid "Number"
+msgstr ""
+
+#: inc/customizer/associate-logo.php:173 inc/customizer/counter.php:131
+#: inc/customizer/featured-content.php:178 inc/customizer/featured-grid.php:176
+#: inc/customizer/filter-content.php:138 inc/customizer/key-features.php:166
+#: inc/customizer/key-features.php:167 inc/customizer/news-events.php:176
+#: inc/customizer/portfolio.php:177 inc/customizer/pricing.php:138
+#: inc/customizer/products-listing.php:115 inc/customizer/skill.php:201
+#: inc/customizer/skill.php:284 inc/customizer/slider.php:139
+#: inc/customizer/team.php:174 inc/customizer/testimonial.php:181
+#: inc/customizer/wwd.php:197
+msgid "Please refresh the customizer page once the number is changed."
+msgstr ""
+
+#: inc/customizer/associate-logo.php:191
+#: inc/customizer/featured-content.php:212 inc/customizer/featured-grid.php:232
+#: inc/customizer/filter-content.php:156 inc/customizer/key-features.php:201
+#: inc/customizer/news-events.php:210 inc/customizer/portfolio.php:211
+#: inc/customizer/slider.php:157 inc/customizer/team.php:192
+#: inc/customizer/testimonial.php:215 inc/customizer/wwd.php:242
+msgid "Pick Categories"
+msgstr ""
+
+#: inc/customizer/associate-logo.php:206
+#: inc/customizer/featured-content.php:227 inc/customizer/featured-grid.php:247
+#: inc/customizer/key-features.php:216 inc/customizer/news-events.php:225
+#: inc/customizer/portfolio.php:226 inc/customizer/slider.php:172
+#: inc/customizer/team.php:207 inc/customizer/testimonial.php:230
+#: inc/customizer/wwd.php:257
+msgid "Pick Tags"
+msgstr ""
+
+#: inc/customizer/associate-logo.php:221
+#: inc/customizer/featured-content.php:242 inc/customizer/featured-grid.php:262
+#: inc/customizer/key-features.php:231 inc/customizer/news-events.php:240
+#: inc/customizer/portfolio.php:241 inc/customizer/product-categories.php:122
+#: inc/customizer/products-listing.php:236 inc/customizer/slider.php:187
+#: inc/customizer/team.php:222 inc/customizer/testimonial.php:245
+#: inc/customizer/wwd.php:272
+msgid "Pick Product categories"
+msgstr ""
+
+#: inc/customizer/associate-logo.php:236 inc/customizer/contact-form.php:163
+#: inc/customizer/featured-content.php:257 inc/customizer/featured-grid.php:277
+#: inc/customizer/hero-content.php:143 inc/customizer/key-features.php:246
+#: inc/customizer/news-events.php:255 inc/customizer/playlist.php:158
+#: inc/customizer/portfolio.php:256 inc/customizer/promotional-headline.php:143
+#: inc/customizer/slider.php:202 inc/customizer/team.php:237
+#: inc/customizer/testimonial.php:260 inc/customizer/wwd.php:287
+msgid "Pick Product Tags"
+msgstr ""
+
+#: inc/customizer/associate-logo.php:254 inc/customizer/counter.php:165
+#: inc/customizer/featured-content.php:275 inc/customizer/featured-grid.php:295
+#: inc/customizer/key-features.php:276 inc/customizer/news-events.php:273
+#: inc/customizer/portfolio.php:274 inc/customizer/pricing.php:159
+#: inc/customizer/skill.php:222 inc/customizer/slider.php:220
+#: inc/customizer/team.php:255 inc/customizer/testimonial.php:278
+#: inc/customizer/wwd.php:317
+msgid "Item #"
+msgstr ""
+
+#: inc/customizer/associate-logo.php:265 inc/customizer/contact-form.php:175
+#: inc/customizer/featured-content.php:286 inc/customizer/featured-grid.php:318
+#: inc/customizer/hero-content.php:155 inc/customizer/key-features.php:297
+#: inc/customizer/news-events.php:284 inc/customizer/playlist.php:170
+#: inc/customizer/portfolio.php:285 inc/customizer/promotional-headline.php:155
+#: inc/customizer/slider.php:232 inc/customizer/team.php:266
+#: inc/customizer/testimonial.php:289 inc/customizer/wwd.php:328
+msgid "Select Post"
+msgstr ""
+
+#: inc/customizer/associate-logo.php:281 inc/customizer/contact-form.php:191
+#: inc/customizer/featured-content.php:302 inc/customizer/featured-grid.php:334
+#: inc/customizer/hero-content.php:171 inc/customizer/key-features.php:313
+#: inc/customizer/news-events.php:300 inc/customizer/playlist.php:186
+#: inc/customizer/portfolio.php:301 inc/customizer/promotional-headline.php:171
+#: inc/customizer/slider.php:248 inc/customizer/team.php:282
+#: inc/customizer/testimonial.php:305 inc/customizer/wwd.php:344
+msgid "Select Page"
+msgstr ""
+
+#: inc/customizer/associate-logo.php:298 inc/customizer/contact-form.php:208
+#: inc/customizer/featured-content.php:319 inc/customizer/featured-grid.php:351
+#: inc/customizer/featured-product.php:109 inc/customizer/hero-content.php:188
+#: inc/customizer/key-features.php:330 inc/customizer/playlist.php:203
+#: inc/customizer/portfolio.php:318 inc/customizer/promotional-headline.php:188
+#: inc/customizer/slider.php:265 inc/customizer/team.php:299
+#: inc/customizer/testimonial.php:322 inc/customizer/wwd.php:361
+msgid "Select Product"
+msgstr ""
+
+#: inc/customizer/associate-logo.php:313 inc/customizer/contact-form.php:245
+#: inc/customizer/featured-content.php:334 inc/customizer/featured-grid.php:366
+#: inc/customizer/featured-video.php:94 inc/customizer/hero-content.php:219
+#: inc/customizer/news-events.php:317 inc/customizer/playlist.php:218
+#: inc/customizer/portfolio.php:333 inc/customizer/promotional-headline.php:203
+#: inc/customizer/skill.php:327 inc/customizer/slider.php:280
+#: inc/customizer/team.php:314 inc/customizer/testimonial.php:337
+#: inc/customizer/wwd.php:386
+msgid "Image"
+msgstr ""
+
+#: inc/customizer/associate-logo.php:324
+msgid "Image Alt"
+msgstr ""
+
+#: inc/customizer/associate-logo.php:335 inc/customizer/portfolio.php:377
+#: inc/customizer/testimonial.php:370
+msgid "Link"
+msgstr ""
+
+#: inc/customizer/associate-logo.php:346 inc/customizer/counter.php:254
+#: inc/customizer/featured-content.php:389
+#: inc/customizer/featured-content.php:423 inc/customizer/featured-grid.php:421
+#: inc/customizer/featured-grid.php:455 inc/customizer/featured-video.php:183
+#: inc/customizer/header-options.php:182 inc/customizer/hero-content.php:285
+#: inc/customizer/key-features.php:389 inc/customizer/news-events.php:392
+#: inc/customizer/playlist.php:284 inc/customizer/portfolio.php:388
+#: inc/customizer/pricing.php:236 inc/customizer/product-categories.php:159
+#: inc/customizer/products-listing.php:273
+#: inc/customizer/promotional-headline.php:285
+#: inc/customizer/promotional-headline.php:318 inc/customizer/skill.php:382
+#: inc/customizer/slider.php:374 inc/customizer/slider.php:407
+#: inc/customizer/team.php:369 inc/customizer/testimonial.php:381
+#: inc/customizer/wwd.php:452
+msgid "Open link in new tab?"
+msgstr ""
+
+#: inc/customizer/associate-logo.php:358
+#: inc/customizer/featured-content.php:434 inc/customizer/featured-grid.php:466
+#: inc/customizer/portfolio.php:400 inc/customizer/team.php:392
+#: inc/customizer/testimonial.php:434 inc/customizer/wwd.php:464
+msgid "Carousel Slider"
+msgstr ""
+
+#: inc/customizer/associate-logo.php:369
+#: inc/customizer/featured-content.php:445 inc/customizer/featured-grid.php:477
+#: inc/customizer/portfolio.php:411 inc/customizer/slider.php:447
+#: inc/customizer/team.php:403 inc/customizer/testimonial.php:445
+#: inc/customizer/wwd.php:475
+msgid "Transition Speed"
+msgstr ""
+
+#: inc/customizer/associate-logo.php:370
+#: inc/customizer/featured-content.php:446 inc/customizer/featured-grid.php:478
+#: inc/customizer/portfolio.php:412 inc/customizer/slider.php:448
+#: inc/customizer/team.php:404 inc/customizer/testimonial.php:446
+#: inc/customizer/wwd.php:476
+msgid "Duration of transition between slides (in ms)"
+msgstr ""
+
+#: inc/customizer/associate-logo.php:383
+#: inc/customizer/featured-content.php:459 inc/customizer/featured-grid.php:491
+#: inc/customizer/portfolio.php:425 inc/customizer/slider.php:479
+#: inc/customizer/team.php:417 inc/customizer/testimonial.php:459
+#: inc/customizer/wwd.php:489
+msgid "Enable continuous loop mode"
+msgstr ""
+
+#: inc/customizer/associate-logo.php:385
+#: inc/customizer/featured-content.php:461 inc/customizer/featured-grid.php:493
+#: inc/customizer/portfolio.php:427 inc/customizer/slider.php:481
+#: inc/customizer/team.php:419 inc/customizer/testimonial.php:461
+#: inc/customizer/wwd.php:491
+msgid "Loop"
+msgstr ""
+
+#: inc/customizer/associate-logo.php:396
+#: inc/customizer/featured-content.php:472 inc/customizer/featured-grid.php:504
+#: inc/customizer/portfolio.php:438 inc/customizer/slider.php:504
+#: inc/customizer/team.php:430 inc/customizer/testimonial.php:472
+#: inc/customizer/wwd.php:502
+msgid "Autoplay"
+msgstr ""
+
+#: inc/customizer/associate-logo.php:407
+#: inc/customizer/featured-content.php:483 inc/customizer/featured-grid.php:515
+#: inc/customizer/portfolio.php:449 inc/customizer/slider.php:515
+#: inc/customizer/team.php:441 inc/customizer/testimonial.php:483
+#: inc/customizer/wwd.php:513
+msgid "Autoplay Delay"
+msgstr ""
+
+#: inc/customizer/associate-logo.php:408
+#: inc/customizer/featured-content.php:484 inc/customizer/featured-grid.php:516
+#: inc/customizer/portfolio.php:450 inc/customizer/slider.php:516
+#: inc/customizer/team.php:442 inc/customizer/testimonial.php:484
+#: inc/customizer/wwd.php:514
+msgid "(in ms)"
+msgstr ""
+
+#: inc/customizer/associate-logo.php:422
+#: inc/customizer/featured-content.php:498 inc/customizer/featured-grid.php:530
+#: inc/customizer/portfolio.php:464 inc/customizer/slider.php:530
+#: inc/customizer/team.php:456 inc/customizer/testimonial.php:498
+#: inc/customizer/wwd.php:528
+msgid "Pause On Hover"
+msgstr ""
+
+#: inc/customizer/associate-logo.php:433 inc/customizer/basic-colors.php:64
+#: inc/customizer/featured-content.php:509 inc/customizer/featured-grid.php:541
+#: inc/customizer/portfolio.php:475 inc/customizer/slider.php:541
+#: inc/customizer/team.php:467 inc/customizer/testimonial.php:509
+#: inc/customizer/wwd.php:539
+msgid "Navigation"
+msgstr ""
+
+#: inc/customizer/associate-logo.php:444
+#: inc/customizer/featured-content.php:520 inc/customizer/featured-grid.php:552
+#: inc/customizer/portfolio.php:486 inc/customizer/slider.php:552
+#: inc/customizer/team.php:478 inc/customizer/testimonial.php:520
+#: inc/customizer/wwd.php:550
+msgid "Pagination"
+msgstr ""
+
+#: inc/customizer/associate-logo.php:553 inc/customizer/contact-form.php:420
+#: inc/customizer/counter.php:286 inc/customizer/featured-content.php:636
+#: inc/customizer/featured-grid.php:668 inc/customizer/featured-product.php:208
+#: inc/customizer/featured-video.php:247 inc/customizer/filter-content.php:192
+#: inc/customizer/hero-content.php:412 inc/customizer/key-features.php:492
+#: inc/customizer/news-events.php:479 inc/customizer/playlist.php:404
+#: inc/customizer/portfolio.php:602 inc/customizer/pricing.php:281
+#: inc/customizer/product-categories.php:195
+#: inc/customizer/products-listing.php:309
+#: inc/customizer/promotional-headline.php:429 inc/customizer/skill.php:415
+#: inc/customizer/slider.php:606 inc/customizer/team.php:587
+#: inc/customizer/testimonial.php:636 inc/customizer/wwd.php:666
+msgid "Colors"
+msgstr ""
+
+#: inc/customizer/associate-logo.php:584 inc/customizer/contact-form.php:450
+#: inc/customizer/content-widgets.php:279 inc/customizer/counter.php:316
+#: inc/customizer/featured-content.php:666 inc/customizer/featured-grid.php:698
+#: inc/customizer/featured-product.php:238
+#: inc/customizer/featured-video.php:277 inc/customizer/filter-content.php:222
+#: inc/customizer/hero-content.php:442 inc/customizer/key-features.php:522
+#: inc/customizer/news-events.php:509 inc/customizer/playlist.php:434
+#: inc/customizer/portfolio.php:633 inc/customizer/pricing.php:311
+#: inc/customizer/product-categories.php:225
+#: inc/customizer/products-listing.php:339
+#: inc/customizer/promotional-headline.php:459 inc/customizer/skill.php:445
+#: inc/customizer/slider.php:729 inc/customizer/team.php:617
+#: inc/customizer/testimonial.php:666 inc/customizer/wwd.php:696
+msgid "Section Background Color"
+msgstr ""
+
+#: inc/customizer/associate-logo.php:591 inc/customizer/basic-colors.php:283
+#: inc/customizer/basic-colors.php:479 inc/customizer/basic-colors.php:523
+#: inc/customizer/basic-colors.php:556 inc/customizer/contact-form.php:464
+#: inc/customizer/content-widgets.php:286 inc/customizer/counter.php:322
+#: inc/customizer/counter.php:366 inc/customizer/featured-content.php:709
+#: inc/customizer/featured-grid.php:711 inc/customizer/featured-product.php:244
+#: inc/customizer/featured-video.php:283 inc/customizer/filter-content.php:278
+#: inc/customizer/hero-content.php:448 inc/customizer/key-features.php:529
+#: inc/customizer/key-features.php:553 inc/customizer/news-events.php:522
+#: inc/customizer/playlist.php:440 inc/customizer/portfolio.php:669
+#: inc/customizer/pricing.php:323 inc/customizer/pricing.php:347
+#: inc/customizer/product-categories.php:231
+#: inc/customizer/products-listing.php:345
+#: inc/customizer/promotional-headline.php:471 inc/customizer/skill.php:451
+#: inc/customizer/skill.php:482 inc/customizer/slider.php:747
+#: inc/customizer/team.php:629 inc/customizer/testimonial.php:708
+#: inc/customizer/wwd.php:708 inc/customizer/wwd.php:732
+msgid "Title Color"
+msgstr ""
+
+#: inc/customizer/associate-logo.php:598 inc/customizer/contact-form.php:471
+#: inc/customizer/content-widgets.php:292 inc/customizer/featured-grid.php:717
+#: inc/customizer/featured-product.php:250
+#: inc/customizer/featured-video.php:289 inc/customizer/hero-content.php:454
+#: inc/customizer/key-features.php:535 inc/customizer/news-events.php:528
+#: inc/customizer/playlist.php:446 inc/customizer/portfolio.php:651
+#: inc/customizer/pricing.php:329 inc/customizer/product-categories.php:237
+#: inc/customizer/products-listing.php:351 inc/customizer/skill.php:457
+#: inc/customizer/team.php:635 inc/customizer/testimonial.php:684
+#: inc/customizer/wwd.php:714
+msgid "Title Divider Color"
+msgstr ""
+
+#: inc/customizer/associate-logo.php:605 inc/customizer/contact-form.php:478
+#: inc/customizer/content-widgets.php:298 inc/customizer/featured-grid.php:723
+#: inc/customizer/featured-product.php:256
+#: inc/customizer/featured-video.php:295 inc/customizer/hero-content.php:460
+#: inc/customizer/key-features.php:541 inc/customizer/news-events.php:534
+#: inc/customizer/playlist.php:452 inc/customizer/portfolio.php:657
+#: inc/customizer/pricing.php:335 inc/customizer/product-categories.php:243
+#: inc/customizer/products-listing.php:357 inc/customizer/skill.php:464
+#: inc/customizer/slider.php:760 inc/customizer/team.php:641
+#: inc/customizer/wwd.php:726
+msgid "Sub Title Color"
+msgstr ""
+
+#: inc/customizer/associate-logo.php:612 inc/customizer/basic-colors.php:117
+#: inc/customizer/basic-colors.php:429 inc/customizer/basic-colors.php:491
+#: inc/customizer/basic-colors.php:529 inc/customizer/basic-colors.php:568
+#: inc/customizer/basic-colors.php:596 inc/customizer/contact-form.php:535
+#: inc/customizer/content-widgets.php:310 inc/customizer/counter.php:329
+#: inc/customizer/counter.php:372 inc/customizer/featured-content.php:703
+#: inc/customizer/featured-grid.php:735 inc/customizer/featured-grid.php:741
+#: inc/customizer/featured-grid.php:759 inc/customizer/featured-product.php:262
+#: inc/customizer/featured-video.php:301 inc/customizer/filter-content.php:291
+#: inc/customizer/hero-content.php:466 inc/customizer/key-features.php:566
+#: inc/customizer/news-events.php:546 inc/customizer/pricing.php:365
+#: inc/customizer/products-listing.php:363
+#: inc/customizer/promotional-headline.php:477 inc/customizer/skill.php:476
+#: inc/customizer/slider.php:767 inc/customizer/team.php:653
+#: inc/customizer/testimonial.php:702 inc/customizer/wwd.php:744
+msgid "Text Color"
+msgstr ""
+
+#: inc/customizer/basic-colors.php:48
+msgid "Color Style"
+msgstr ""
+
+#: inc/customizer/basic-colors.php:51 inc/customizer/header-options.php:101
+msgid "Dark"
+msgstr ""
+
+#: inc/customizer/basic-colors.php:52 inc/customizer/header-options.php:102
+msgid "Light"
+msgstr ""
+
+#: inc/customizer/basic-colors.php:61
+msgid "Basic Color"
+msgstr ""
+
+#: inc/customizer/basic-colors.php:62
+msgid "Top Header"
+msgstr ""
+
+#: inc/customizer/basic-colors.php:63
+msgid "Main Header"
+msgstr ""
+
+#: inc/customizer/basic-colors.php:65
+msgid "Sticky Header"
+msgstr ""
+
+#: inc/customizer/basic-colors.php:66
+msgid "Sticky Menu"
+msgstr ""
+
+#: inc/customizer/basic-colors.php:67 inc/customizer/contact-form.php:234
+#: inc/customizer/contact-form.php:290 inc/customizer/contact-form.php:311
+#: inc/customizer/contact-form.php:332 inc/customizer/counter.php:221
+#: inc/customizer/featured-content.php:356 inc/customizer/featured-grid.php:388
+#: inc/customizer/featured-video.php:127 inc/customizer/hero-content.php:252
+#: inc/customizer/key-features.php:356 inc/customizer/news-events.php:359
+#: inc/customizer/playlist.php:251 inc/customizer/portfolio.php:355
+#: inc/customizer/promotional-headline.php:252 inc/customizer/skill.php:153
+#: inc/customizer/skill.php:349 inc/customizer/slider.php:341
+#: inc/customizer/testimonial.php:359 inc/customizer/theme-options.php:546
+#: inc/customizer/wwd.php:419 inc/merlin/class-merlin.php:741
+#: inc/merlin/class-merlin.php:1988
+msgid "Content"
+msgstr ""
+
+#: inc/customizer/basic-colors.php:69
+msgid "Custom Header"
+msgstr ""
+
+#: inc/customizer/basic-colors.php:70
+msgid "Footer Widget Area"
+msgstr ""
+
+#: inc/customizer/basic-colors.php:71
+msgid "Footer Area"
+msgstr ""
+
+#: inc/customizer/basic-colors.php:72
+msgid "Goto top"
+msgstr ""
+
+#: inc/customizer/basic-colors.php:111
+msgid "Main Color Scheme"
+msgstr ""
+
+#: inc/customizer/basic-colors.php:123 inc/customizer/basic-colors.php:447
+#: inc/customizer/basic-colors.php:503 inc/customizer/basic-colors.php:536
+#: inc/customizer/basic-colors.php:575 inc/customizer/basic-colors.php:603
+#: inc/customizer/contact-form.php:553 inc/customizer/content-widgets.php:316
+#: inc/customizer/featured-grid.php:747 inc/customizer/featured-product.php:268
+#: inc/customizer/featured-video.php:307 inc/customizer/hero-content.php:472
+#: inc/customizer/news-events.php:564 inc/customizer/pricing.php:371
+#: inc/customizer/product-categories.php:249
+#: inc/customizer/products-listing.php:369
+#: inc/customizer/promotional-headline.php:483 inc/customizer/team.php:659
+msgid "Link Color"
+msgstr ""
+
+#: inc/customizer/basic-colors.php:129 inc/customizer/basic-colors.php:453
+#: inc/customizer/basic-colors.php:509 inc/customizer/basic-colors.php:542
+#: inc/customizer/basic-colors.php:581 inc/customizer/basic-colors.php:609
+#: inc/customizer/contact-form.php:560 inc/customizer/content-widgets.php:322
+#: inc/customizer/featured-grid.php:753 inc/customizer/featured-product.php:274
+#: inc/customizer/featured-video.php:313 inc/customizer/hero-content.php:478
+#: inc/customizer/news-events.php:570 inc/customizer/product-categories.php:255
+#: inc/customizer/products-listing.php:375
+#: inc/customizer/promotional-headline.php:489 inc/customizer/team.php:665
+msgid "Link Hover Color"
+msgstr ""
+
+#: inc/customizer/basic-colors.php:135 inc/customizer/basic-colors.php:435
+msgid "Heading Color"
+msgstr ""
+
+#: inc/customizer/basic-colors.php:142 inc/customizer/basic-colors.php:247
+#: inc/customizer/basic-colors.php:340 inc/customizer/counter.php:335
+#: inc/customizer/featured-product.php:281
+#: inc/customizer/featured-video.php:319 inc/customizer/hero-content.php:484
+#: inc/customizer/pricing.php:377 inc/customizer/products-listing.php:387
+#: inc/customizer/promotional-headline.php:495 inc/customizer/skill.php:494
+#: inc/customizer/skill.php:525 inc/customizer/slider.php:774
+msgid "Button Color"
+msgstr ""
+
+#: inc/customizer/basic-colors.php:150 inc/customizer/basic-colors.php:254
+#: inc/customizer/basic-colors.php:347 inc/customizer/counter.php:341
+#: inc/customizer/featured-product.php:287
+#: inc/customizer/featured-video.php:325 inc/customizer/hero-content.php:490
+#: inc/customizer/pricing.php:383 inc/customizer/products-listing.php:393
+#: inc/customizer/promotional-headline.php:507 inc/customizer/skill.php:500
+#: inc/customizer/skill.php:531 inc/customizer/slider.php:780
+msgid "Button Hover Color"
+msgstr ""
+
+#: inc/customizer/basic-colors.php:157 inc/customizer/featured-video.php:331
+msgid "Button Background"
+msgstr ""
+
+#: inc/customizer/basic-colors.php:165 inc/customizer/featured-video.php:338
+msgid "Button Background Hover"
+msgstr ""
+
+#: inc/customizer/basic-colors.php:172
+msgid "Secondary Button Color"
+msgstr ""
+
+#: inc/customizer/basic-colors.php:178
+msgid "Secondary Button Hover Color"
+msgstr ""
+
+#: inc/customizer/basic-colors.php:185
+msgid "Secondary Button Background"
+msgstr ""
+
+#: inc/customizer/basic-colors.php:191
+msgid "Secondary Button Background Hover"
+msgstr ""
+
+#: inc/customizer/basic-colors.php:199
+msgid "Top Header Background Color"
+msgstr ""
+
+#: inc/customizer/basic-colors.php:205 inc/customizer/basic-colors.php:302
+msgid "Contact Text Color"
+msgstr ""
+
+#: inc/customizer/basic-colors.php:211 inc/customizer/basic-colors.php:308
+msgid "Contact Link Color"
+msgstr ""
+
+#: inc/customizer/basic-colors.php:217 inc/customizer/basic-colors.php:314
+msgid "Contact Link Hover Color"
+msgstr ""
+
+#: inc/customizer/basic-colors.php:223 inc/customizer/basic-colors.php:320
+#: inc/customizer/contact-form.php:541
+msgid "Contact Icon Color"
+msgstr ""
+
+#: inc/customizer/basic-colors.php:229 inc/customizer/basic-colors.php:326
+msgid "Social Icon Color"
+msgstr ""
+
+#: inc/customizer/basic-colors.php:235 inc/customizer/basic-colors.php:241
+#: inc/customizer/basic-colors.php:332
+msgid "Cart/Search Icon Color"
+msgstr ""
+
+#: inc/customizer/basic-colors.php:260 inc/customizer/basic-colors.php:355
+#: inc/customizer/counter.php:347 inc/customizer/featured-product.php:293
+#: inc/customizer/pricing.php:389 inc/customizer/products-listing.php:399
+#: inc/customizer/promotional-headline.php:501 inc/customizer/skill.php:506
+#: inc/customizer/skill.php:537
+msgid "Button Background Color"
+msgstr ""
+
+#: inc/customizer/basic-colors.php:267 inc/customizer/basic-colors.php:362
+#: inc/customizer/counter.php:353 inc/customizer/featured-product.php:299
+#: inc/customizer/pricing.php:395 inc/customizer/products-listing.php:405
+#: inc/customizer/skill.php:512 inc/customizer/skill.php:543
+#: inc/customizer/slider.php:792
+msgid "Button Background Hover Color"
+msgstr ""
+
+#: inc/customizer/basic-colors.php:277 inc/customizer/basic-colors.php:517
+#: inc/customizer/basic-colors.php:550 inc/customizer/basic-colors.php:589
+msgid "Background Color"
+msgstr ""
+
+#: inc/customizer/basic-colors.php:289 inc/customizer/featured-content.php:715
+#: inc/customizer/filter-content.php:285 inc/customizer/key-features.php:560
+#: inc/customizer/skill.php:488 inc/customizer/slider.php:753
+#: inc/customizer/wwd.php:738
+msgid "Title Hover Color"
+msgstr ""
+
+#: inc/customizer/basic-colors.php:295
+msgid "Tagline Color"
+msgstr ""
+
+#: inc/customizer/basic-colors.php:371
+msgid "Menu Background Color"
+msgstr ""
+
+#: inc/customizer/basic-colors.php:377
+msgid "Menu Link Color"
+msgstr ""
+
+#: inc/customizer/basic-colors.php:383
+msgid "Menu Link Hover Color"
+msgstr ""
+
+#: inc/customizer/basic-colors.php:391
+msgid "Menu Border Color"
+msgstr ""
+
+#: inc/customizer/basic-colors.php:397
+msgid "Sub Menu Background Color"
+msgstr ""
+
+#: inc/customizer/basic-colors.php:403
+msgid "Sub Menu Link Color"
+msgstr ""
+
+#: inc/customizer/basic-colors.php:409
+msgid "Sub Menu Link Hover Color"
+msgstr ""
+
+#: inc/customizer/basic-colors.php:417 inc/customizer/counter.php:359
+#: inc/customizer/featured-content.php:672 inc/customizer/key-features.php:547
+#: inc/customizer/news-events.php:515 inc/customizer/portfolio.php:639
+#: inc/customizer/pricing.php:317 inc/customizer/team.php:623
+#: inc/customizer/testimonial.php:672 inc/customizer/wwd.php:702
+msgid "Content Background Color"
+msgstr ""
+
+#: inc/customizer/basic-colors.php:423
+msgid "Block Background Color"
+msgstr ""
+
+#: inc/customizer/basic-colors.php:441
+msgid "Heading Hover Color"
+msgstr ""
+
+#: inc/customizer/basic-colors.php:459
+msgid "Meta Color"
+msgstr ""
+
+#: inc/customizer/basic-colors.php:465
+msgid "Meta Hover Color"
+msgstr ""
+
+#: inc/customizer/basic-colors.php:473
+msgid "Block Color"
+msgstr ""
+
+#: inc/customizer/basic-colors.php:485 inc/customizer/basic-colors.php:562
+msgid "Title Border Color"
+msgstr ""
+
+#: inc/customizer/basic-colors.php:497 inc/customizer/basic-colors.php:617
+#: inc/customizer/basic-colors.php:630 inc/customizer/counter.php:379
+#: inc/customizer/key-features.php:573 inc/customizer/wwd.php:750
+#: inc/customizer/wwd.php:756
+msgid "Icon Color"
+msgstr ""
+
+#: inc/customizer/basic-colors.php:623 inc/customizer/key-features.php:587
+msgid "Icon Background Color"
+msgstr ""
+
+#: inc/customizer/basic-colors.php:636
+msgid "Icon Hover Background Color"
+msgstr ""
+
+#: inc/customizer/contact-form.php:116 inc/customizer/featured-product.php:140
+#: inc/customizer/featured-video.php:105 inc/customizer/hero-content.php:230
+#: inc/customizer/playlist.php:229
+msgid "Top Subtitle"
+msgstr ""
+
+#: inc/customizer/contact-form.php:127 inc/customizer/hero-content.php:107
+#: inc/customizer/playlist.php:122 inc/customizer/promotional-headline.php:107
+#: inc/customizer/utilities.php:141
+msgid "Category"
+msgstr ""
+
+#: inc/customizer/contact-form.php:139 inc/customizer/hero-content.php:119
+#: inc/customizer/playlist.php:134 inc/customizer/promotional-headline.php:119
+msgid "Tag"
+msgstr ""
+
+#: inc/customizer/contact-form.php:151 inc/customizer/hero-content.php:131
+#: inc/customizer/playlist.php:146 inc/customizer/promotional-headline.php:131
+#: inc/customizer/utilities.php:147
+msgid "Product Category"
+msgstr ""
+
+#: inc/customizer/contact-form.php:223 inc/customizer/counter.php:210
+#: inc/customizer/featured-content.php:345 inc/customizer/featured-grid.php:377
+#: inc/customizer/featured-video.php:116 inc/customizer/hero-content.php:241
+#: inc/customizer/key-features.php:345 inc/customizer/news-events.php:328
+#: inc/customizer/playlist.php:240 inc/customizer/portfolio.php:344
+#: inc/customizer/pricing.php:170 inc/customizer/promotional-headline.php:241
+#: inc/customizer/skill.php:131 inc/customizer/skill.php:338
+#: inc/customizer/slider.php:330 inc/customizer/team.php:325
+#: inc/customizer/testimonial.php:348 inc/customizer/wwd.php:408
+msgid "Title"
+msgstr ""
+
+#: inc/customizer/contact-form.php:255
+msgid "Map Code"
+msgstr ""
+
+#: inc/customizer/contact-form.php:267
+msgid "Contact Info"
+msgstr ""
+
+#: inc/customizer/contact-form.php:269
+#. translators: 1: Link Start html, 2: Link end html.
+msgid ""
+"If you want camera icon, save \"fas fa-camera\". For more classes, check "
+"%1$sthis%2$s"
+msgstr ""
+
+#: inc/customizer/contact-form.php:279 inc/customizer/contact-form.php:300
+#: inc/customizer/contact-form.php:321 inc/customizer/key-features.php:286
+#: inc/customizer/wwd.php:375
+msgid "Icon Class"
+msgstr ""
+
+#: inc/customizer/contact-form.php:457
+msgid "Form Background Color"
+msgstr ""
+
+#: inc/customizer/contact-form.php:484
+msgid "Form Button Color"
+msgstr ""
+
+#: inc/customizer/contact-form.php:490
+msgid "Form Button Background Color"
+msgstr ""
+
+#: inc/customizer/contact-form.php:496 inc/customizer/contact-form.php:503
+#: inc/customizer/slider.php:741
+msgid "Image Background Color"
+msgstr ""
+
+#: inc/customizer/contact-form.php:511
+msgid "Form Button Hover Color"
+msgstr ""
+
+#: inc/customizer/contact-form.php:517
+msgid "Form Button Hover Background Color"
+msgstr ""
+
+#: inc/customizer/contact-form.php:523
+msgid "Info Background Color"
+msgstr ""
+
+#: inc/customizer/contact-form.php:529
+msgid "Info Title Color"
+msgstr ""
+
+#: inc/customizer/contact-form.php:547
+msgid "Contact Icon Background Color"
+msgstr ""
+
+#: inc/customizer/content-widgets.php:89 inc/customizer/content-widgets.php:137
+#: inc/customizer/content-widgets.php:185
+msgid "For this Widget Area Options click %1$shere%2$s"
+msgstr ""
+
+#: inc/customizer/content-widgets.php:304 inc/customizer/featured-grid.php:729
+#: inc/customizer/news-events.php:540 inc/customizer/portfolio.php:663
+#: inc/customizer/pricing.php:341 inc/customizer/team.php:647
+msgid "Top Sub Title Color"
+msgstr ""
+
+#: inc/customizer/counter.php:94 inc/customizer/featured-content.php:104
+#: inc/customizer/featured-grid.php:104 inc/customizer/key-features.php:95
+#: inc/customizer/portfolio.php:103 inc/customizer/slider.php:117
+#: inc/customizer/team.php:102 inc/customizer/wwd.php:101
+msgid "Style"
+msgstr ""
+
+#: inc/customizer/counter.php:97 inc/customizer/featured-content.php:107
+#: inc/customizer/featured-grid.php:107 inc/customizer/key-features.php:98
+#: inc/customizer/portfolio.php:106 inc/customizer/slider.php:120
+#: inc/customizer/team.php:105 inc/customizer/wwd.php:104
+msgid "Style One"
+msgstr ""
+
+#: inc/customizer/counter.php:98 inc/customizer/featured-content.php:108
+#: inc/customizer/featured-grid.php:108 inc/customizer/key-features.php:99
+#: inc/customizer/portfolio.php:107 inc/customizer/slider.php:121
+#: inc/customizer/team.php:106 inc/customizer/wwd.php:105
+msgid "Style Two"
+msgstr ""
+
+#: inc/customizer/counter.php:109 inc/customizer/testimonial.php:102
+#: inc/customizer/wwd.php:175
+msgid "Background Image"
+msgstr ""
+
+#: inc/customizer/counter.php:120 inc/customizer/promotional-headline.php:214
+#: inc/customizer/testimonial.php:113 inc/customizer/wwd.php:186
+msgid "Overlay on image?"
+msgstr ""
+
+#: inc/customizer/counter.php:151 inc/customizer/featured-product.php:54
+#: inc/customizer/key-features.php:261 inc/customizer/playlist.php:89
+#: inc/customizer/product-categories.php:52
+#: inc/customizer/products-listing.php:57 inc/customizer/theme-options.php:134
+#: inc/customizer/theme-options.php:453 inc/customizer/wwd.php:304
+#: inc/theme-about.php:57
+msgid "Info"
+msgstr ""
+
+#: inc/customizer/counter.php:153
+#. translators: 1: Link Start html, 2: Link end html.
+msgid ""
+"If you want camera icon, save \"fas fa-camera\". For more classes, check "
+"%1$sthis%2$s"
+msgstr ""
+
+#: inc/customizer/counter.php:176
+msgid "Icon"
+msgstr ""
+
+#: inc/customizer/counter.php:198 inc/customizer/pricing.php:192
+msgid "Label"
+msgstr ""
+
+#: inc/customizer/counter.php:232 inc/customizer/featured-content.php:401
+#: inc/customizer/featured-grid.php:433 inc/customizer/featured-video.php:161
+#: inc/customizer/header-options.php:162 inc/customizer/hero-content.php:263
+#: inc/customizer/news-events.php:381 inc/customizer/playlist.php:262
+#: inc/customizer/pricing.php:214 inc/customizer/product-categories.php:137
+#: inc/customizer/products-listing.php:251
+#: inc/customizer/promotional-headline.php:263 inc/customizer/skill.php:164
+#: inc/customizer/slider.php:352
+msgid "Button Text"
+msgstr ""
+
+#: inc/customizer/counter.php:243 inc/customizer/featured-content.php:412
+#: inc/customizer/featured-grid.php:444 inc/customizer/featured-video.php:172
+#: inc/customizer/header-options.php:172 inc/customizer/hero-content.php:274
+#: inc/customizer/news-events.php:370 inc/customizer/playlist.php:273
+#: inc/customizer/pricing.php:225 inc/customizer/product-categories.php:148
+#: inc/customizer/products-listing.php:262
+#: inc/customizer/promotional-headline.php:274 inc/customizer/skill.php:175
+#: inc/customizer/slider.php:363
+msgid "Button Link"
+msgstr ""
+
+#: inc/customizer/custom-controls.php:230
+msgid "Add"
+msgstr ""
+
+#: inc/customizer/customizer.php:56
+msgid "Excluding Homepage"
+msgstr ""
+
+#: inc/customizer/customizer.php:77
+msgid "Post Thumb as header image?"
+msgstr ""
+
+#: inc/customizer/customizer.php:78
+msgid ""
+"Turn this feature on to show Post or Page or other Custom Post Type post "
+"thumbnail as Header Image on their respective pages"
+msgstr ""
+
+#: inc/customizer/featured-content.php:109 inc/customizer/portfolio.php:108
+#: inc/customizer/wwd.php:106
+msgid "Style Three"
+msgstr ""
+
+#: inc/customizer/featured-content.php:196 inc/customizer/featured-grid.php:216
+#: inc/customizer/featured-product.php:124 inc/customizer/hero-content.php:203
+#: inc/customizer/key-features.php:185 inc/customizer/news-events.php:194
+#: inc/customizer/portfolio.php:195 inc/customizer/promotional-headline.php:225
+#: inc/customizer/testimonial.php:199 inc/customizer/wwd.php:226
+msgid "Display Content Type"
+msgstr ""
+
+#: inc/customizer/featured-content.php:200 inc/customizer/featured-grid.php:220
+#: inc/customizer/featured-product.php:128 inc/customizer/hero-content.php:207
+#: inc/customizer/key-features.php:189 inc/customizer/news-events.php:198
+#: inc/customizer/portfolio.php:199 inc/customizer/promotional-headline.php:229
+#: inc/customizer/testimonial.php:203 inc/customizer/wwd.php:230
+msgid "Excerpt"
+msgstr ""
+
+#: inc/customizer/featured-content.php:201 inc/customizer/featured-grid.php:221
+#: inc/customizer/featured-product.php:129 inc/customizer/hero-content.php:208
+#: inc/customizer/key-features.php:190 inc/customizer/news-events.php:199
+#: inc/customizer/portfolio.php:200 inc/customizer/promotional-headline.php:230
+#: inc/customizer/testimonial.php:204 inc/customizer/wwd.php:231
+msgid "Full Content"
+msgstr ""
+
+#: inc/customizer/featured-content.php:202 inc/customizer/featured-grid.php:222
+#: inc/customizer/featured-product.php:130 inc/customizer/hero-content.php:209
+#: inc/customizer/key-features.php:191 inc/customizer/news-events.php:200
+#: inc/customizer/portfolio.php:201 inc/customizer/promotional-headline.php:231
+#: inc/customizer/testimonial.php:205 inc/customizer/utilities.php:123
+#: inc/customizer/wwd.php:232
+msgid "Disabled"
+msgstr ""
+
+#: inc/customizer/featured-content.php:367 inc/customizer/featured-grid.php:399
+#: inc/customizer/key-features.php:367 inc/customizer/portfolio.php:366
+#: inc/customizer/skill.php:360 inc/customizer/team.php:347
+#: inc/customizer/wwd.php:430
+msgid "More Text"
+msgstr ""
+
+#: inc/customizer/featured-content.php:378 inc/customizer/featured-grid.php:410
+#: inc/customizer/key-features.php:378 inc/customizer/skill.php:371
+#: inc/customizer/team.php:358 inc/customizer/wwd.php:441
+msgid "More Link"
+msgstr ""
+
+#: inc/customizer/featured-content.php:679
+#: inc/customizer/filter-content.php:229 inc/customizer/portfolio.php:645
+#: inc/customizer/testimonial.php:678
+msgid "Section Title Color"
+msgstr ""
+
+#: inc/customizer/featured-content.php:685
+#: inc/customizer/filter-content.php:235
+msgid "Section Title Divider Color"
+msgstr ""
+
+#: inc/customizer/featured-content.php:691
+#: inc/customizer/filter-content.php:241 inc/customizer/testimonial.php:690
+msgid "Section Subtitle Color"
+msgstr ""
+
+#: inc/customizer/featured-content.php:697
+#: inc/customizer/filter-content.php:247 inc/customizer/testimonial.php:696
+msgid "Section Top Subtitle Color"
+msgstr ""
+
+#: inc/customizer/featured-content.php:721 inc/customizer/news-events.php:576
+msgid "Meta Link Color"
+msgstr ""
+
+#: inc/customizer/featured-content.php:727 inc/customizer/news-events.php:582
+msgid "Meta Link Hover Color"
+msgstr ""
+
+#: inc/customizer/featured-content.php:734
+msgid "Cat Link Color"
+msgstr ""
+
+#: inc/customizer/featured-content.php:740
+msgid "Cat Link Background Color"
+msgstr ""
+
+#: inc/customizer/featured-content.php:746
+msgid "Cat Link Hover Color"
+msgstr ""
+
+#: inc/customizer/featured-content.php:752
+msgid "Cat Link Background Hover Color"
+msgstr ""
+
+#: inc/customizer/featured-content.php:758 inc/customizer/featured-grid.php:765
+#: inc/customizer/key-features.php:600 inc/customizer/news-events.php:590
+#: inc/customizer/testimonial.php:714 inc/customizer/wwd.php:768
+msgid "More Link Color"
+msgstr ""
+
+#: inc/customizer/featured-content.php:764 inc/customizer/featured-grid.php:771
+#: inc/customizer/key-features.php:606 inc/customizer/news-events.php:596
+#: inc/customizer/testimonial.php:720 inc/customizer/wwd.php:774
+msgid "More Link Hover Color"
+msgstr ""
+
+#: inc/customizer/featured-grid.php:194
+msgid "Post Thumbnails?"
+msgstr ""
+
+#: inc/customizer/featured-grid.php:206
+msgid "Display Post Thumbnails?"
+msgstr ""
+
+#: inc/customizer/featured-grid.php:306
+msgid "Number Count for Item #"
+msgstr ""
+
+#: inc/customizer/featured-grid.php:307
+msgid "Max 2 letters, more than that might cause design issues."
+msgstr ""
+
+#: inc/customizer/featured-grid.php:704
+msgid "Grid Background Color"
+msgstr ""
+
+#: inc/customizer/featured-product.php:55
+#: inc/customizer/product-categories.php:53
+#: inc/customizer/products-listing.php:58
+msgid "Install %1$sWooCommerce%2$s Plugin for this section."
+msgstr ""
+
+#: inc/customizer/featured-product.php:151
+#: inc/customizer/featured-video.php:194 inc/customizer/hero-content.php:296
+#: inc/customizer/playlist.php:295
+msgid "Content Position"
+msgstr ""
+
+#: inc/customizer/featured-product.php:154
+#: inc/customizer/featured-product.php:172
+#: inc/customizer/featured-video.php:197 inc/customizer/featured-video.php:215
+#: inc/customizer/hero-content.php:299 inc/customizer/hero-content.php:317
+#: inc/customizer/playlist.php:298 inc/customizer/playlist.php:316
+#: inc/customizer/promotional-headline.php:334 inc/customizer/slider.php:308
+msgid "Right"
+msgstr ""
+
+#: inc/customizer/featured-product.php:155
+#: inc/customizer/featured-product.php:170
+#: inc/customizer/featured-video.php:198 inc/customizer/featured-video.php:213
+#: inc/customizer/hero-content.php:300 inc/customizer/hero-content.php:315
+#: inc/customizer/playlist.php:299 inc/customizer/playlist.php:314
+#: inc/customizer/promotional-headline.php:332 inc/customizer/slider.php:306
+msgid "Left"
+msgstr ""
+
+#: inc/customizer/featured-product.php:166
+#: inc/customizer/featured-video.php:209 inc/customizer/hero-content.php:311
+#: inc/customizer/playlist.php:310 inc/customizer/promotional-headline.php:329
+#: inc/customizer/slider.php:303
+msgid "Text Align"
+msgstr ""
+
+#: inc/customizer/featured-product.php:169
+#: inc/customizer/featured-video.php:212 inc/customizer/hero-content.php:314
+#: inc/customizer/playlist.php:313 inc/metabox.php:68 inc/metabox.php:100
+msgid "Default"
+msgstr ""
+
+#: inc/customizer/featured-product.php:171
+#: inc/customizer/featured-video.php:214 inc/customizer/hero-content.php:316
+#: inc/customizer/playlist.php:315 inc/customizer/promotional-headline.php:333
+#: inc/customizer/slider.php:307
+msgid "Center"
+msgstr ""
+
+#: inc/customizer/featured-video.php:138 inc/customizer/slider.php:418
+msgid "Video Link"
+msgstr ""
+
+#: inc/customizer/featured-video.php:149
+msgid "Embed Video instead of popup?"
+msgstr ""
+
+#: inc/customizer/featured-video.php:150
+msgid ""
+"This will disable the popup and embed the video on the section instead. "
+"Might create width issues. Use popup video if width issues occur."
+msgstr ""
+
+#: inc/customizer/filter-content.php:253
+msgid "Tab Wrapper Background Color"
+msgstr ""
+
+#: inc/customizer/filter-content.php:259
+msgid "Tab Background Color"
+msgstr ""
+
+#: inc/customizer/filter-content.php:265
+msgid "Tab Color"
+msgstr ""
+
+#: inc/customizer/filter-content.php:272
+msgid "Tab  Hover Color"
+msgstr ""
+
+#: inc/customizer/header-options.php:38
+msgid "Header Options"
+msgstr ""
+
+#: inc/customizer/header-options.php:48
+msgid "Header Style"
+msgstr ""
+
+#: inc/customizer/header-options.php:53
+msgid "Header Style One"
+msgstr ""
+
+#: inc/customizer/header-options.php:57
+msgid "Header Style Two"
+msgstr ""
+
+#: inc/customizer/header-options.php:61
+msgid "Header Style Three"
+msgstr ""
+
+#: inc/customizer/header-options.php:65
+msgid "Header Style Four"
+msgstr ""
+
+#: inc/customizer/header-options.php:69
+msgid "Header Style Five"
+msgstr ""
+
+#: inc/customizer/header-options.php:73
+msgid "Header Style Six"
+msgstr ""
+
+#: inc/customizer/header-options.php:77
+msgid "Header Style Seven"
+msgstr ""
+
+#: inc/customizer/header-options.php:88
+msgid "Sticky Header?"
+msgstr ""
+
+#: inc/customizer/header-options.php:98
+msgid "Header Top Color"
+msgstr ""
+
+#: inc/customizer/header-options.php:112
+msgid "Text"
+msgstr ""
+
+#: inc/customizer/header-options.php:122
+#: template-parts/header/quick-contact.php:22
+msgid "Email"
+msgstr ""
+
+#: inc/customizer/header-options.php:132
+#: template-parts/header/quick-contact.php:18
+msgid "Phone"
+msgstr ""
+
+#: inc/customizer/header-options.php:142
+#: template-parts/header/quick-contact.php:26
+msgid "Address"
+msgstr ""
+
+#: inc/customizer/header-options.php:152
+#: template-parts/header/quick-contact.php:30
+msgid "Open Hours"
+msgstr ""
+
+#: inc/customizer/hero-content.php:496
+msgid "Button  Background Color"
+msgstr ""
+
+#: inc/customizer/hero-content.php:502
+msgid "Button Background  Hover Color"
+msgstr ""
+
+#: inc/customizer/key-features.php:110
+msgid "Main Image"
+msgstr ""
+
+#: inc/customizer/key-features.php:262
+msgid ""
+"E.g: If you want camera icon, save \"fas fa-camera\". For more classes, "
+"check %1$sthis%2$s"
+msgstr ""
+
+#: inc/customizer/key-features.php:580 inc/customizer/wwd.php:762
+msgid "Icon Hover Color"
+msgstr ""
+
+#: inc/customizer/key-features.php:593
+msgid "Icon  Background Hover Color"
+msgstr ""
+
+#: inc/customizer/menu-options.php:30
+msgid "Display Primary"
+msgstr ""
+
+#: inc/customizer/menu-options.php:41
+msgid "Search on Primary Menu"
+msgstr ""
+
+#: inc/customizer/news-events.php:119 inc/customizer/sortable-sections.php:83
+msgid "Events"
+msgstr ""
+
+#: inc/customizer/news-events.php:338
+msgid "Date Day"
+msgstr ""
+
+#: inc/customizer/news-events.php:348
+msgid "Date Month"
+msgstr ""
+
+#: inc/customizer/news-events.php:552
+msgid "Date Color"
+msgstr ""
+
+#: inc/customizer/news-events.php:558
+msgid "Date Background Color"
+msgstr ""
+
+#: inc/customizer/playlist.php:90
+msgid "If you dont know how to add playlist in page/post, check %1$sthis%2$s"
+msgstr ""
+
+#: inc/customizer/playlist.php:458
+msgid "Contain Color"
+msgstr ""
+
+#: inc/customizer/playlist.php:465
+msgid "Playlist Item Background"
+msgstr ""
+
+#: inc/customizer/playlist.php:471
+msgid "Playlist Item Color"
+msgstr ""
+
+#: inc/customizer/playlist.php:477
+msgid "Playlist Item Hover Background"
+msgstr ""
+
+#: inc/customizer/playlist.php:483
+msgid "Item Hover Color"
+msgstr ""
+
+#: inc/customizer/portfolio.php:675
+msgid "Title Link Hover Color"
+msgstr ""
+
+#: inc/customizer/portfolio.php:681
+msgid "Text Hover Color"
+msgstr ""
+
+#: inc/customizer/pricing.php:181
+msgid "Price"
+msgstr ""
+
+#: inc/customizer/pricing.php:203
+msgid "Features"
+msgstr ""
+
+#: inc/customizer/pricing.php:247
+msgid "Recommended"
+msgstr ""
+
+#: inc/customizer/pricing.php:248
+msgid "Highlight this item"
+msgstr ""
+
+#: inc/customizer/pricing.php:353
+msgid "Currency Color"
+msgstr ""
+
+#: inc/customizer/pricing.php:359 inc/customizer/products-listing.php:381
+msgid "Price Color"
+msgstr ""
+
+#: inc/customizer/product-categories.php:26
+#: inc/customizer/products-listing.php:31
+msgid "View All"
+msgstr ""
+
+#: inc/customizer/products-listing.php:132
+msgid "Theme supports up to 6 columns"
+msgstr ""
+
+#: inc/customizer/products-listing.php:133
+msgid "No of Columns"
+msgstr ""
+
+#: inc/customizer/products-listing.php:150
+msgid "Paginate"
+msgstr ""
+
+#: inc/customizer/products-listing.php:161
+msgid "Order By"
+msgstr ""
+
+#: inc/customizer/products-listing.php:164
+msgid "Date - The date the product was published"
+msgstr ""
+
+#: inc/customizer/products-listing.php:165
+msgid "ID - The post ID of the product"
+msgstr ""
+
+#: inc/customizer/products-listing.php:166
+msgid "Menu Order - The Menu Order, if set (lower numbers display first)"
+msgstr ""
+
+#: inc/customizer/products-listing.php:167
+msgid "Popularity - The number of purchases"
+msgstr ""
+
+#: inc/customizer/products-listing.php:168
+msgid "Random"
+msgstr ""
+
+#: inc/customizer/products-listing.php:169
+msgid "Rating - The average product rating"
+msgstr ""
+
+#: inc/customizer/products-listing.php:170
+msgid "Title - The product title"
+msgstr ""
+
+#: inc/customizer/products-listing.php:181
+msgid "Products Filter"
+msgstr ""
+
+#: inc/customizer/products-listing.php:184
+msgid "None"
+msgstr ""
+
+#: inc/customizer/products-listing.php:185
+msgid "Retrieve on sale products"
+msgstr ""
+
+#: inc/customizer/products-listing.php:186
+msgid "Retrieve best selling products"
+msgstr ""
+
+#: inc/customizer/products-listing.php:187
+msgid "Retrieve top rated products"
+msgstr ""
+
+#: inc/customizer/products-listing.php:198
+msgid "Show only Products that are marked as Featured Products"
+msgstr ""
+
+#: inc/customizer/products-listing.php:209
+msgid "Order"
+msgstr ""
+
+#: inc/customizer/products-listing.php:212
+msgid "Ascending"
+msgstr ""
+
+#: inc/customizer/products-listing.php:213
+msgid "Descending"
+msgstr ""
+
+#: inc/customizer/products-listing.php:223
+msgid "Comma separated list of product SKUs"
+msgstr ""
+
+#: inc/customizer/products-listing.php:225
+msgid "SKUs"
+msgstr ""
+
+#: inc/customizer/promotional-headline.php:296 inc/customizer/slider.php:385
+msgid "Secondary Button Text"
+msgstr ""
+
+#: inc/customizer/promotional-headline.php:307 inc/customizer/slider.php:396
+msgid "Secondary Button Link"
+msgstr ""
+
+#: inc/customizer/promotional-headline.php:465 inc/customizer/slider.php:735
+msgid "Section Overlay Color"
+msgstr ""
+
+#: inc/customizer/promotional-headline.php:513
+msgid "Button Hover Background Color"
+msgstr ""
+
+#: inc/customizer/reset.php:43
+msgid "Reset"
+msgstr ""
+
+#: inc/customizer/reset.php:44
+msgid "Caution! This action is irreversible. Press OK to continue."
+msgstr ""
+
+#: inc/customizer/reset.php:48
+msgid "Reset Section"
+msgstr ""
+
+#: inc/customizer/reset.php:49
+msgid "Caution! This action is irreversible. Press OK to reset the section."
+msgstr ""
+
+#: inc/customizer/skill.php:29
+msgid "View More"
+msgstr ""
+
+#: inc/customizer/skill.php:31
+msgid "Strategy & Analysis"
+msgstr ""
+
+#: inc/customizer/skill.php:34
+msgid "E-economic Growth"
+msgstr ""
+
+#: inc/customizer/skill.php:37
+msgid "Achieves Goals"
+msgstr ""
+
+#: inc/customizer/skill.php:40
+msgid "Happy Customer"
+msgstr ""
+
+#: inc/customizer/skill.php:43 inc/customizer/skill.php:44
+msgid "Data Analysis"
+msgstr ""
+
+#: inc/customizer/skill.php:46 inc/customizer/skill.php:47
+msgid "Financial Profit"
+msgstr ""
+
+#: inc/customizer/skill.php:49 inc/customizer/skill.php:50
+msgid "Best Care"
+msgstr ""
+
+#: inc/customizer/skill.php:52 inc/customizer/skill.php:53
+msgid "Mission"
+msgstr ""
+
+#: inc/customizer/skill.php:120
+msgid "Top Sub-title"
+msgstr ""
+
+#: inc/customizer/skill.php:142
+msgid "Subtitle"
+msgstr ""
+
+#: inc/customizer/skill.php:186
+msgid "Columns"
+msgstr ""
+
+#: inc/customizer/skill.php:189 inc/customizer/theme-options.php:382
+#: inc/customizer/utilities.php:162
+msgid "One Column"
+msgstr ""
+
+#: inc/customizer/skill.php:190 inc/customizer/theme-options.php:383
+#: inc/customizer/utilities.php:163
+msgid "Two Columns"
+msgstr ""
+
+#: inc/customizer/skill.php:200
+msgid "Number of skills"
+msgstr ""
+
+#: inc/customizer/skill.php:233 inc/customizer/testimonial.php:392
+msgid "Name"
+msgstr ""
+
+#: inc/customizer/skill.php:244
+msgid "Bar Color"
+msgstr ""
+
+#: inc/customizer/skill.php:255
+msgid "Skill Percentage"
+msgstr ""
+
+#: inc/customizer/skill.php:273
+msgid "Tabs"
+msgstr ""
+
+#: inc/customizer/skill.php:283
+msgid "Number of tabs"
+msgstr ""
+
+#: inc/customizer/skill.php:305
+msgid "Tab #"
+msgstr ""
+
+#: inc/customizer/skill.php:316
+msgid "Tab Heading"
+msgstr ""
+
+#: inc/customizer/skill.php:470 inc/customizer/wwd.php:720
+msgid "Top Subtitle Color"
+msgstr ""
+
+#: inc/customizer/skill.php:518
+msgid "Tabs Content Background Color"
+msgstr ""
+
+#: inc/customizer/slider.php:122
+msgid "Style three"
+msgstr ""
+
+#: inc/customizer/slider.php:123
+msgid "Style Four"
+msgstr ""
+
+#: inc/customizer/slider.php:124
+msgid "Style Five"
+msgstr ""
+
+#: inc/customizer/slider.php:125
+msgid "Style boxed"
+msgstr ""
+
+#: inc/customizer/slider.php:291
+msgid "Second Image"
+msgstr ""
+
+#: inc/customizer/slider.php:319
+msgid "Sub Title"
+msgstr ""
+
+#: inc/customizer/slider.php:435
+msgid "Slider Advance Options"
+msgstr ""
+
+#: inc/customizer/slider.php:462
+msgid "Transition Effect"
+msgstr ""
+
+#: inc/customizer/slider.php:465
+msgid "Slide"
+msgstr ""
+
+#: inc/customizer/slider.php:466
+msgid "Fade"
+msgstr ""
+
+#: inc/customizer/slider.php:467
+msgid "Cube"
+msgstr ""
+
+#: inc/customizer/slider.php:468
+msgid "Coverflow"
+msgstr ""
+
+#: inc/customizer/slider.php:469
+msgid "Flip"
+msgstr ""
+
+#: inc/customizer/slider.php:491
+msgid "Enable zoom effect on images"
+msgstr ""
+
+#: inc/customizer/slider.php:493
+msgid "Zoom Effect"
+msgstr ""
+
+#: inc/customizer/slider.php:563
+msgid "Scroll Bar"
+msgstr ""
+
+#: inc/customizer/slider.php:574
+msgid "Image Overlay"
+msgstr ""
+
+#: inc/customizer/slider.php:585
+msgid "Image Overlay Opacity"
+msgstr ""
+
+#: inc/customizer/slider.php:786
+msgid "Button Background  Color"
+msgstr ""
+
+#: inc/customizer/slider.php:799
+msgid "Wire Button Color"
+msgstr ""
+
+#: inc/customizer/slider.php:806
+msgid "Wire Button Hover Color"
+msgstr ""
+
+#: inc/customizer/slider.php:812
+msgid "Wire Button  Border Color"
+msgstr ""
+
+#: inc/customizer/slider.php:819
+msgid "Wire Button Border  Hover Color"
+msgstr ""
+
+#: inc/customizer/slider.php:825
+msgid "Wire Button Background  Hover Color"
+msgstr ""
+
+#: inc/customizer/slider.php:832
+msgid "Vieo Button Color"
+msgstr ""
+
+#: inc/customizer/slider.php:838
+msgid "Vieo Button Hover Color"
+msgstr ""
+
+#: inc/customizer/slider.php:844
+msgid "Next/Prev Color"
+msgstr ""
+
+#: inc/customizer/slider.php:850
+msgid "Next/Prev Background Color"
+msgstr ""
+
+#: inc/customizer/slider.php:856
+msgid "Next/Prev Hover Color"
+msgstr ""
+
+#: inc/customizer/slider.php:862
+msgid "Next/Prev Hover Background Color"
+msgstr ""
+
+#: inc/customizer/sortable-sections.php:15
+msgid "Sortable Sections"
+msgstr ""
+
+#: inc/customizer/sortable-sections.php:17
+msgid "Drag and drop sections for their order."
+msgstr ""
+
+#: inc/customizer/sortable-sections.php:63
+msgid "Section layout"
+msgstr ""
+
+#: inc/customizer/sortable-sections.php:76
+msgid "Slider"
+msgstr ""
+
+#: inc/customizer/sortable-sections.php:77
+msgid "Featured Grid"
+msgstr ""
+
+#: inc/customizer/sortable-sections.php:78
+msgid "Hero Content"
+msgstr ""
+
+#: inc/customizer/sortable-sections.php:79
+msgid "Promotion Headline"
+msgstr ""
+
+#: inc/customizer/sortable-sections.php:80
+msgid "Portfolio"
+msgstr ""
+
+#: inc/customizer/sortable-sections.php:81
+msgid "Key Features"
+msgstr ""
+
+#: inc/customizer/sortable-sections.php:82
+msgid "Featured Video"
+msgstr ""
+
+#: inc/customizer/sortable-sections.php:84
+msgid "Stats"
+msgstr ""
+
+#: inc/customizer/sortable-sections.php:85
+msgid "Filter Content"
+msgstr ""
+
+#: inc/customizer/sortable-sections.php:86
+msgid "What We Do"
+msgstr ""
+
+#: inc/customizer/sortable-sections.php:87
+msgid "Team"
+msgstr ""
+
+#: inc/customizer/sortable-sections.php:88
+msgid "Testimonials"
+msgstr ""
+
+#: inc/customizer/sortable-sections.php:89
+msgid "Skills"
+msgstr ""
+
+#: inc/customizer/sortable-sections.php:90
+msgid "Featured Product"
+msgstr ""
+
+#: inc/customizer/sortable-sections.php:92
+msgid "Playlist"
+msgstr ""
+
+#: inc/customizer/sortable-sections.php:93
+msgid "Product Categories"
+msgstr ""
+
+#: inc/customizer/sortable-sections.php:95
+msgid "Products listing"
+msgstr ""
+
+#: inc/customizer/sortable-sections.php:96
+msgid "Featured Content"
+msgstr ""
+
+#: inc/customizer/sortable-sections.php:97
+msgid "Pricing Table"
+msgstr ""
+
+#: inc/customizer/sortable-sections.php:99
+msgid "Associate Logo"
+msgstr ""
+
+#: inc/customizer/sortable-sections.php:100
+msgid "Contact Form"
+msgstr ""
+
+#: inc/customizer/sortable-sections.php:101
+msgid "Main Content"
+msgstr ""
+
+#: inc/customizer/team.php:30
+msgid "Alone we can do so little, together we can do so much"
+msgstr ""
+
+#: inc/customizer/team.php:31
+msgid "Our Team Members"
+msgstr ""
+
+#: inc/customizer/team.php:336 inc/customizer/testimonial.php:403
+msgid "Position"
+msgstr ""
+
+#: inc/customizer/team.php:380
+msgid "Social Links for #"
+msgstr ""
+
+#: inc/customizer/testimonial.php:414
+msgid "Stars #"
+msgstr ""
+
+#: inc/customizer/testimonial.php:417
+msgid "Hide Stars"
+msgstr ""
+
+#: inc/customizer/testimonial.php:726
+msgid "Rating Info Background Color"
+msgstr ""
+
+#: inc/customizer/testimonial.php:732
+msgid "Rating Color"
+msgstr ""
+
+#: inc/customizer/testimonial.php:738
+msgid "Position Color"
+msgstr ""
+
+#: inc/customizer/testimonial.php:744
+msgid "Name Color"
+msgstr ""
+
+#: inc/customizer/theme-options.php:67
+msgid "Continue reading"
+msgstr ""
+
+#: inc/customizer/theme-options.php:71 inc/customizer/theme-options.php:73
+msgid "Elite Commerce Pro by"
+msgstr ""
+
+#: inc/customizer/theme-options.php:80
+msgid "Search..."
+msgstr ""
+
+#: inc/customizer/theme-options.php:111
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer/theme-options.php:123
+msgid "Breadcrumb"
+msgstr ""
+
+#: inc/customizer/theme-options.php:135
+msgid ""
+"Since Breadcrumb NavXT Plugin is installed, edit plugin's settings "
+"%1$shere%2$s"
+msgstr ""
+
+#: inc/customizer/theme-options.php:148
+msgid "Display Breadcrumb?"
+msgstr ""
+
+#: inc/customizer/theme-options.php:158
+msgid "Show on homepage?"
+msgstr ""
+
+#: inc/customizer/theme-options.php:171
+msgid "Buttons"
+msgstr ""
+
+#: inc/customizer/theme-options.php:181
+msgid "Border Radius"
+msgstr ""
+
+#: inc/customizer/theme-options.php:182
+msgid "Slide to right to make buttons more rounder"
+msgstr ""
+
+#: inc/customizer/theme-options.php:201
+msgid "Layouts"
+msgstr ""
+
+#: inc/customizer/theme-options.php:211
+msgid "Site Layout"
+msgstr ""
+
+#: inc/customizer/theme-options.php:214
+msgid "Fluid"
+msgstr ""
+
+#: inc/customizer/theme-options.php:215
+msgid "Boxed"
+msgstr ""
+
+#: inc/customizer/theme-options.php:225
+msgid "Default Layout"
+msgstr ""
+
+#: inc/customizer/theme-options.php:228 inc/customizer/theme-options.php:244
+#: inc/customizer/theme-options.php:260
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/customizer/theme-options.php:229 inc/customizer/theme-options.php:245
+#: inc/customizer/theme-options.php:261
+msgid "Left Sidebar"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "No Sidebar"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "No Sidebar: Full Width"
+msgstr ""
+
+#: inc/customizer/theme-options.php:241
+msgid "Homepage/Archive Layout"
+msgstr ""
+
+#: inc/customizer/theme-options.php:257
+msgid "WooCommerce Pages Layout"
+msgstr ""
+
+#: inc/customizer/theme-options.php:275
+msgid "Homepage/Archive Posts Content Layout"
+msgstr ""
+
+#: inc/customizer/theme-options.php:278
+msgid "Grid"
+msgstr ""
+
+#: inc/customizer/theme-options.php:279
+msgid "Excerpt Image Top"
+msgstr ""
+
+#: inc/customizer/theme-options.php:280
+msgid "Excerpt Image Left"
+msgstr ""
+
+#: inc/customizer/theme-options.php:281
+msgid "Excerpt Image Right"
+msgstr ""
+
+#: inc/customizer/theme-options.php:282
+msgid "Full Content (No Featured Image)"
+msgstr ""
+
+#: inc/customizer/theme-options.php:283
+msgid "Full Content Image Top"
+msgstr ""
+
+#: inc/customizer/theme-options.php:296
+msgid "Excerpt Options"
+msgstr ""
+
+#: inc/customizer/theme-options.php:306
+msgid "Excerpt Length (Words)"
+msgstr ""
+
+#: inc/customizer/theme-options.php:316
+msgid "Excerpt More Text"
+msgstr ""
+
+#: inc/customizer/theme-options.php:329
+msgid "Fonts"
+msgstr ""
+
+#: inc/customizer/theme-options.php:366
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer/theme-options.php:368
+msgid ""
+"You can use shortcodes [the-year], [site-link] and [privacy-policy-link] to "
+"add current year, site link and privacy-policy respectively."
+msgstr ""
+
+#: inc/customizer/theme-options.php:378
+msgid "Footer Style"
+msgstr ""
+
+#: inc/customizer/theme-options.php:381 inc/metabox.php:70 inc/metabox.php:101
+msgid "Disable"
+msgstr ""
+
+#: inc/customizer/theme-options.php:393
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: inc/customizer/theme-options.php:404
+msgid "Footer Copyright Text Left"
+msgstr ""
+
+#: inc/customizer/theme-options.php:415
+msgid "Footer Copyright Text Right"
+msgstr ""
+
+#: inc/customizer/theme-options.php:443 inc/merlin-config.php:34
+msgid "Theme Setup"
+msgstr ""
+
+#: inc/customizer/theme-options.php:454
+msgid ""
+"Turning this on will Re-enable theme setup wizard which can be accessed in "
+"Appearance=> Theme Setup. Turn this option off once you have completed the "
+"setup as it might cause issues if re-run."
+msgstr ""
+
+#: inc/customizer/theme-options.php:464
+msgid "Theme Setup Re-enable?"
+msgstr ""
+
+#: inc/customizer/theme-options.php:480
+msgid "Filter Homepage/Blog page posts by following categories"
+msgstr ""
+
+#: inc/customizer/theme-options.php:481
+msgid "Categories"
+msgstr ""
+
+#: inc/customizer/theme-options.php:495
+msgid "Show Home Content/Blog"
+msgstr ""
+
+#: inc/customizer/theme-options.php:508
+#: template-parts/header/header-search.php:16
+msgid "Search"
+msgstr ""
+
+#: inc/customizer/theme-options.php:517
+msgid "Search Text"
+msgstr ""
+
+#: inc/customizer/theme-options.php:530
+msgid "Body(Default)"
+msgstr ""
+
+#: inc/customizer/theme-options.php:534
+msgid "Site Title"
+msgstr ""
+
+#: inc/customizer/theme-options.php:538
+msgid "Tagline"
+msgstr ""
+
+#: inc/customizer/theme-options.php:542
+#: template-parts/navigation/navigation-primary.php:15
+msgid "Menu"
+msgstr ""
+
+#: inc/customizer/theme-options.php:550
+msgid "Headings (h1 to h6)"
+msgstr ""
+
+#: inc/customizer/utilities.php:107
+#. translators: 1: Post ID.
+msgid "ID: %s No Title"
+msgstr ""
+
+#: inc/customizer/utilities.php:124
+msgid "Homepage / Frontpage"
+msgstr ""
+
+#: inc/customizer/utilities.php:125
+msgid "Entire Site"
+msgstr ""
+
+#: inc/customizer/utilities.php:126
+msgid "Custom Pages"
+msgstr ""
+
+#: inc/customizer/utilities.php:139
+msgid "Page"
+msgstr ""
+
+#: inc/customizer/utilities.php:140
+msgid "Post"
+msgstr ""
+
+#: inc/customizer/utilities.php:142
+msgid "Tags"
+msgstr ""
+
+#: inc/customizer/utilities.php:146
+msgid "Products"
+msgstr ""
+
+#: inc/customizer/utilities.php:148
+msgid "Product Tag"
+msgstr ""
+
+#: inc/customizer/utilities.php:151
+msgid "Custom"
+msgstr ""
+
+#: inc/customizer/utilities.php:164
+msgid "Three Columns"
+msgstr ""
+
+#: inc/customizer/utilities.php:165
+msgid "Four Columns"
+msgstr ""
+
+#: inc/customizer/wwd.php:215
+msgid "Display Featured Image/Post Thumbnail"
+msgstr ""
+
+#: inc/customizer/wwd.php:305
+msgid ""
+"Icon takes Priority Over Image. If you want camera icon, save \"fas "
+"fa-camera\". For more classes, check %1$sthis%2$s"
+msgstr ""
+
+#: inc/customizer/wwd.php:397 inc/metabox.php:19
+msgid "Featured Image"
+msgstr ""
+
+#: inc/edd-updater/theme-updater-admin.php:142
+msgid ""
+"You will find your license key in  %1$sMy Accounts%3$s page. Make sure you "
+"login with same email that you have used to buy the theme at Firefly "
+"Themes. For more info visit this %2$slink%3$s."
+msgstr ""
+
+#: inc/edd-updater/theme-updater-admin.php:270
+#: inc/edd-updater/theme-updater-admin.php:324
+#: inc/edd-updater/theme-updater-admin.php:376 inc/merlin/class-merlin.php:1498
+#: inc/merlin/class-merlin.php:1539
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: inc/edd-updater/theme-updater-admin.php:290 inc/merlin/class-merlin.php:1511
+#. translators: Expiration date
+msgid "Your license key expired on %s."
+msgstr ""
+
+#: inc/edd-updater/theme-updater-admin.php:298 inc/merlin/class-merlin.php:1517
+msgid "Your license key has been disabled."
+msgstr ""
+
+#: inc/edd-updater/theme-updater-admin.php:303
+msgid "Invalid license."
+msgstr ""
+
+#: inc/edd-updater/theme-updater-admin.php:309 inc/merlin/class-merlin.php:1526
+msgid "Your license is not active for this URL."
+msgstr ""
+
+#: inc/edd-updater/theme-updater-admin.php:314 inc/merlin/class-merlin.php:1531
+#. translators: EDD Item Name
+msgid "This appears to be an invalid license key for %s."
+msgstr ""
+
+#: inc/edd-updater/theme-updater-admin.php:319 inc/merlin/class-merlin.php:1535
+msgid "Your license key has reached its activation limit."
+msgstr ""
+
+#: inc/edd-updater/theme-updater-admin.php:602
+msgid ""
+"Please activate %1$s theme using license key  %2$shere%4$s to get Automatic "
+"theme updates and proper support. To know why you need to keep themes "
+"update, visit this %3$slink%4$s."
+msgstr ""
+
+#: inc/edd-updater/theme-updater.php:33
+msgid "Enter your theme license key."
+msgstr ""
+
+#: inc/edd-updater/theme-updater.php:34
+msgid "License Key"
+msgstr ""
+
+#: inc/edd-updater/theme-updater.php:35
+msgid "License Action"
+msgstr ""
+
+#: inc/edd-updater/theme-updater.php:36
+msgid "Deactivate License"
+msgstr ""
+
+#: inc/edd-updater/theme-updater.php:37
+msgid "Activate License"
+msgstr ""
+
+#: inc/edd-updater/theme-updater.php:38 inc/edd-updater/theme-updater.php:51
+msgid "License status is unknown."
+msgstr ""
+
+#: inc/edd-updater/theme-updater.php:39
+msgid "Renew?"
+msgstr ""
+
+#: inc/edd-updater/theme-updater.php:40
+msgid "unlimited"
+msgstr ""
+
+#: inc/edd-updater/theme-updater.php:41
+msgid "License key is active."
+msgstr ""
+
+#: inc/edd-updater/theme-updater.php:42
+msgid "Expires %s."
+msgstr ""
+
+#: inc/edd-updater/theme-updater.php:43
+msgid "Lifetime License."
+msgstr ""
+
+#: inc/edd-updater/theme-updater.php:44
+msgid "You have %1$s / %2$s sites activated."
+msgstr ""
+
+#: inc/edd-updater/theme-updater.php:45
+msgid "License key expired %s."
+msgstr ""
+
+#: inc/edd-updater/theme-updater.php:46
+msgid "License key has expired."
+msgstr ""
+
+#: inc/edd-updater/theme-updater.php:47
+msgid "License keys do not match."
+msgstr ""
+
+#: inc/edd-updater/theme-updater.php:48
+msgid "License is inactive."
+msgstr ""
+
+#: inc/edd-updater/theme-updater.php:49
+msgid "License key is disabled."
+msgstr ""
+
+#: inc/edd-updater/theme-updater.php:50
+msgid "Site is inactive."
+msgstr ""
+
+#: inc/edd-updater/theme-updater.php:52
+msgid ""
+"Updating this theme will lose any customizations you have made. 'Cancel' to "
+"stop, 'OK' to update."
+msgstr ""
+
+#: inc/merlin/class-merlin.php:453
+msgid "Something went wrong. Please refresh the page and try again!"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:598
+msgid "Please define default parameters in the form of an array."
+msgstr ""
+
+#: inc/merlin/class-merlin.php:603
+msgid "Please define an SVG icon filename."
+msgstr ""
+
+#: inc/merlin/class-merlin.php:712
+msgid "Welcome"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:719
+msgid "Child"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:725 inc/theme-about.php:78
+msgid "License"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:733
+msgid "Plugins"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:747
+msgid "Ready"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:852
+msgid "The welcome step has been displayed"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:946
+msgid "The license activation step has been displayed"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1016
+msgid "The child theme installation step has been displayed"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1103
+msgid "Required"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1104
+msgid "req"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1144
+msgid "The plugin installation step has been displayed"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1180
+msgid "Check out them demos:"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1197
+msgid "Select Demo"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1235
+msgid "The content import step has been displayed"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1315
+msgid "The final step has been displayed"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1392
+msgid "The existing child theme was activated"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1409
+msgid "The newly generated child theme was activated"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1430
+msgid "Yikes! The theme activation failed. Please try again or contact support."
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1439
+msgid "Please add your license key before attempting to activate one."
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1452
+msgid "The license activation was performed with the following results"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1521
+msgid ""
+"This appears to be an invalid license key. Please try again or contact "
+"support."
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1629
+msgid "The child theme functions.php content was generated"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1660
+msgid "The child theme style.css content was generated"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1694
+msgid ""
+"The child theme screenshot was copied to the child theme, with the "
+"following result"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1696
+msgid "The child theme screenshot was not generated, because of these results"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1725
+msgid "Activating"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1741
+msgid "Updating"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1757 inc/merlin/class-merlin.php:1773
+#: inc/merlin/class-merlin.php:1991 inc/merlin/class-merlin.php:2004
+#: inc/merlin/class-merlin.php:2017 inc/merlin/class-merlin.php:2030
+#: inc/merlin/class-merlin.php:2043 inc/merlin/class-merlin.php:2056
+#: inc/merlin/class-merlin.php:2099
+msgid "Installing"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1765
+msgid "A plugin with the following data will be processed"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1777
+msgid "A plugin with the following data was processed"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1786 inc/merlin/class-merlin.php:1992
+#: inc/merlin/class-merlin.php:2005 inc/merlin/class-merlin.php:2018
+#: inc/merlin/class-merlin.php:2031 inc/merlin/class-merlin.php:2044
+#: inc/merlin/class-merlin.php:2057
+msgid "Success"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1809
+msgid "The content importer AJAX call failed to start, because of incorrect data"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1814
+msgid "Invalid content!"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1825
+msgid "The content import AJAX call will be executed with this import data"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1867
+msgid "The content import AJAX call failed with this passed data"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1878
+msgid "Error"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1892
+msgid ""
+"The content importer AJAX call for retrieving total content import items "
+"failed to start, because of incorrect data."
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1897
+msgid "Invalid data!"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1989
+msgid "Demo content data."
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1990 inc/merlin/class-merlin.php:2003
+#: inc/merlin/class-merlin.php:2016 inc/merlin/class-merlin.php:2029
+#: inc/merlin/class-merlin.php:2042 inc/merlin/class-merlin.php:2055
+msgid "Pending"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:2001
+msgid "Widgets"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:2002
+msgid "Sample widgets data."
+msgstr ""
+
+#: inc/merlin/class-merlin.php:2014
+msgid "Revolution Slider"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:2015
+msgid "Sample Revolution sliders data."
+msgstr ""
+
+#: inc/merlin/class-merlin.php:2027
+msgid "Options"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:2028
+msgid "Sample theme options data."
+msgstr ""
+
+#: inc/merlin/class-merlin.php:2040
+msgid "Redux Options"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:2041
+msgid "Redux framework options."
+msgstr ""
+
+#: inc/merlin/class-merlin.php:2053
+msgid "After import setup"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:2054
+msgid "After import setup."
+msgstr ""
+
+#: inc/merlin/class-merlin.php:2083
+msgid "The revolution slider import was executed"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:2120
+msgid "The home page was set"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:2130
+msgid "The blog page was set"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:2145
+msgid "The Hello world post status was set to draft"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:2169
+msgid ""
+"This predefined demo import does not have the name parameter: "
+"import_file_name"
+msgstr ""
+
+#: inc/merlin/includes/class-merlin-customizer-importer.php:30
+msgid "The customizer import has finished successfully"
+msgstr ""
+
+#: inc/merlin/includes/class-merlin-customizer-importer.php:57
+msgid "Error: The customizer import file is missing! File path: %s"
+msgstr ""
+
+#: inc/merlin/includes/class-merlin-customizer-importer.php:70
+msgid ""
+"Error: The customizer import file does not have any content in it. Please "
+"make sure to use the correct customizer import file."
+msgstr ""
+
+#: inc/merlin/includes/class-merlin-customizer-importer.php:80
+msgid ""
+"Error: The customizer import file is not in a correct format. Please make "
+"sure to use the correct customizer import file."
+msgstr ""
+
+#: inc/merlin/includes/class-merlin-customizer-importer.php:86
+msgid ""
+"Error: The customizer import file is not suitable for current theme. You "
+"can only import customizer settings for the same theme or a child theme."
+msgstr ""
+
+#: inc/merlin/includes/class-merlin-downloader.php:49
+msgid "The file was not able to save to disk, while trying to download it"
+msgstr ""
+
+#: inc/merlin/includes/class-merlin-downloader.php:66
+msgid "Missing URL for downloading a file!"
+msgstr ""
+
+#: inc/merlin/includes/class-merlin-downloader.php:84
+msgid ""
+"An error occurred while fetching file from: %1$s%2$s%3$s!%4$sReason: %5$s - "
+"%6$s."
+msgstr ""
+
+#: inc/merlin/includes/class-merlin-redux-importer.php:32
+msgid "The Redux Framework data was imported"
+msgstr ""
+
+#: inc/merlin/includes/class-merlin-widget-importer.php:72
+msgid "Error: Widget import file could not be found."
+msgstr ""
+
+#: inc/merlin/includes/class-merlin-widget-importer.php:83
+msgid "Error: Widget import file does not have any content in it."
+msgstr ""
+
+#: inc/merlin/includes/class-merlin-widget-importer.php:105
+msgid "Error: Widget import data could not be read. Please try a different file."
+msgstr ""
+
+#: inc/merlin/includes/class-merlin-widget-importer.php:144
+msgid "Sidebar does not exist in theme (moving widget to Inactive)"
+msgstr ""
+
+#: inc/merlin/includes/class-merlin-widget-importer.php:165
+msgid "Site does not support widget"
+msgstr ""
+
+#: inc/merlin/includes/class-merlin-widget-importer.php:198
+msgid "Widget already exists"
+msgstr ""
+
+#: inc/merlin/includes/class-merlin-widget-importer.php:256
+msgid "Imported"
+msgstr ""
+
+#: inc/merlin/includes/class-merlin-widget-importer.php:260
+msgid "Imported to Inactive"
+msgstr ""
+
+#: inc/merlin/includes/class-merlin-widget-importer.php:266
+msgid "No Title"
+msgstr ""
+
+#: inc/merlin/includes/class-merlin-widget-importer.php:328
+msgid "No results for widget import!"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/Importer.php:55
+msgid ""
+"The XMLReader class is missing! Please install the XMLReader PHP extension "
+"on your server"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/Importer.php:68
+msgid "Could not open the XML file for parsing!"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/Importer.php:248
+msgid "Content import start error: "
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/Importer.php:280
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:173
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:291
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:364
+msgid ""
+"This WXR file (version %s) is newer than the importer (version %s) and may "
+"not be supported. Please consider updating."
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/Importer.php:504
+msgid "New AJAX call!"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:135
+msgid "Could not open the file for parsing"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:514
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:577
+msgid "Invalid author mapping"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:678
+msgid "Cannot import auto-draft posts"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:770
+msgid "Failed to import \"%s\": Invalid post type %s"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:780
+msgid "%s \"%s\" already exists."
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:858
+msgid "Skipping attachment \"%s\", fetching attachments disabled"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:872
+msgid "Failed to import \"%s\" (%s)"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:904
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1822
+msgid "Imported \"%s\" (%s)"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:909
+msgid "Post %d remapped to %d"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:949
+msgid "Failed to import term: %s - %s"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1094
+msgid "Invalid file type"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1593
+msgid "Failed to import user \"%s\""
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1614
+msgid "Imported user \"%s\""
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1618
+msgid "User %d remapped to %d"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1783
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1827
+msgid "Term %d remapped to %d"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1886
+msgid "Failed to add metakey: %s, metavalue: %s to term_id: %d"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1895
+msgid "Meta for term_id %d : %s => %s ; successfully added!"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1947
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1969
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1975
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2000
+msgid "Running post-processing for post %d"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2013
+msgid "Could not find the post parent for \"%s\" (post #%d)"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2018
+msgid "Post %d was imported with parent %d, but could not be found"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2032
+msgid "Could not find the author for \"%s\" (post #%d)"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2037
+msgid "Post %d was imported with author \"%s\", but could not be found"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2063
+msgid "Post %d was marked for post-processing, but none was required."
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2074
+msgid "Could not update \"%s\" (post #%d) with mapped data"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2119
+msgid "Could not find the menu object for \"%s\" (post #%d)"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2124
+msgid ""
+"Post %d was imported with object \"%d\" of type \"%s\", but could not be "
+"found"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2146
+msgid "Could not find the comment parent for comment #%d"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2150
+msgid "Comment %d was imported with parent %d, but could not be found"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2164
+msgid "Could not find the author for comment #%d"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2168
+msgid "Comment %d was imported with author %d, but could not be found"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2185
+msgid "Could not update comment #%d with mapped data"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2216
+msgid "Faulty term_id provided in terms-to-be-remapped array %s"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2226
+msgid "No taxonomy provided in terms-to-be-remapped array for term #%d"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2236
+msgid "No parent_slug identified in remapping-array for term: %d"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2244
+msgid "The term(%d)\"s parent_slug (%s) is not found in the remapping-array."
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2258
+msgid "No data returned by get_term_by for term_id #%d"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2277
+msgid "Could not update \"%s\" (term #%d) with mapped data"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2287
+msgid "Term %d was successfully updated with parent %d"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2322
+msgid "Starting remapping of featured images"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2331
+msgid "Remapping featured image ID %d to new ID %d for post ID %d"
+msgstr ""
+
+#: inc/merlin-config.php:37
+#. translators: 1: Title Tag 2: Theme Name 3: Closing Title Tag
+msgid "%1$s%2$s Themes &lsaquo; Theme Setup: %3$s%4$s"
+msgstr ""
+
+#: inc/merlin-config.php:38
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/merlin-config.php:39
+msgid "Disable Wizard"
+msgstr ""
+
+#: inc/merlin-config.php:41
+msgid "Skip"
+msgstr ""
+
+#: inc/merlin-config.php:42 single.php:24
+msgid "Next"
+msgstr ""
+
+#: inc/merlin-config.php:43
+msgid "Start"
+msgstr ""
+
+#: inc/merlin-config.php:44
+msgid "Cancel"
+msgstr ""
+
+#: inc/merlin-config.php:45 inc/merlin-config.php:46 inc/merlin-config.php:47
+msgid "Install"
+msgstr ""
+
+#: inc/merlin-config.php:48
+msgid "Import"
+msgstr ""
+
+#: inc/merlin-config.php:49
+msgid "Activate"
+msgstr ""
+
+#: inc/merlin-config.php:50
+msgid "Later"
+msgstr ""
+
+#: inc/merlin-config.php:53
+#. translators: Theme Name
+msgid "Activate %s"
+msgstr ""
+
+#: inc/merlin-config.php:55
+#. translators: Theme Name
+msgid "%s is Activated"
+msgstr ""
+
+#: inc/merlin-config.php:57
+#. translators: Theme Name
+msgid "Enter your license key to enable remote updates and theme support."
+msgstr ""
+
+#: inc/merlin-config.php:58
+msgid "License key"
+msgstr ""
+
+#: inc/merlin-config.php:60
+#. translators: Theme Name
+msgid "%s is already registered and activated. Please proceed to the next step."
+msgstr ""
+
+#: inc/merlin-config.php:61
+msgid "Need help?"
+msgstr ""
+
+#: inc/merlin-config.php:62
+msgid "Your theme is activated! Remote updates and theme support are enabled."
+msgstr ""
+
+#: inc/merlin-config.php:65
+#. translators: Theme Name
+msgid "Welcome to %s"
+msgstr ""
+
+#: inc/merlin-config.php:66
+msgid "Hi. Welcome back"
+msgstr ""
+
+#: inc/merlin-config.php:67
+msgid ""
+"This wizard will set up your theme, install plugins, and import content. It "
+"is optional & should take only a few minutes."
+msgstr ""
+
+#: inc/merlin-config.php:68
+msgid ""
+"You may have already run this theme setup wizard. If you would like to "
+"proceed anyway, click on the \"Start\" button below."
+msgstr ""
+
+#: inc/merlin-config.php:70
+msgid "Install Child Theme"
+msgstr ""
+
+#: inc/merlin-config.php:71
+msgid "You're good to go!"
+msgstr ""
+
+#: inc/merlin-config.php:72
+msgid "Let's build & activate a child theme so you may easily make theme changes."
+msgstr ""
+
+#: inc/merlin-config.php:73
+msgid ""
+"Your child theme has already been installed and is now activated, if it "
+"wasn't already."
+msgstr ""
+
+#: inc/merlin-config.php:74
+msgid "Learn about child themes"
+msgstr ""
+
+#: inc/merlin-config.php:75
+msgid "Awesome. Your child theme has already been installed and is now activated."
+msgstr ""
+
+#: inc/merlin-config.php:76
+msgid "Awesome. Your child theme has been created and is now activated."
+msgstr ""
+
+#: inc/merlin-config.php:78
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/merlin-config.php:79
+msgid "You're up to speed!"
+msgstr ""
+
+#: inc/merlin-config.php:80
+msgid "Let's install some essential WordPress plugins to get your site up to speed."
+msgstr ""
+
+#: inc/merlin-config.php:81
+msgid ""
+"The required WordPress plugins are all installed and up to date. Press "
+"\"Next\" to continue the setup wizard."
+msgstr ""
+
+#: inc/merlin-config.php:82 inc/merlin-config.php:86
+msgid "Advanced"
+msgstr ""
+
+#: inc/merlin-config.php:84
+msgid "Import Content"
+msgstr ""
+
+#: inc/merlin-config.php:85
+msgid ""
+"Let's import content to your website, to help you get familiar with the "
+"theme."
+msgstr ""
+
+#: inc/merlin-config.php:88
+msgid "All done. Have fun!"
+msgstr ""
+
+#: inc/merlin-config.php:91
+#. translators: Theme Author
+msgid "Your theme has been all set up. Enjoy your new theme by %s."
+msgstr ""
+
+#: inc/merlin-config.php:92
+msgid "Extras"
+msgstr ""
+
+#: inc/merlin-config.php:93
+msgid "View your website"
+msgstr ""
+
+#: inc/merlin-config.php:94
+msgid "Explore WordPress"
+msgstr ""
+
+#: inc/merlin-config.php:95
+msgid "Get Theme Support"
+msgstr ""
+
+#: inc/merlin-config.php:96
+msgid "Start Customizing"
+msgstr ""
+
+#: inc/metabox.php:15
+msgid "Select Sidebar"
+msgstr ""
+
+#: inc/metabox.php:17
+msgid "Header Image"
+msgstr ""
+
+#: inc/metabox.php:21
+msgid "Hide Content"
+msgstr ""
+
+#: inc/metabox.php:34
+msgid "Default Sidebar"
+msgstr ""
+
+#: inc/metabox.php:37
+msgid "Optional Sidebar three"
+msgstr ""
+
+#: inc/metabox.php:69
+msgid "Enable"
+msgstr ""
+
+#: inc/metabox.php:79
+msgid ""
+"Will override Option from Appearance=> Custommize=> Header Media for this "
+"particular Page/Post if anything other than default is selected."
+msgstr ""
+
+#: inc/metabox.php:102
+msgid "Post Thumbnail (470x470)"
+msgstr ""
+
+#: inc/metabox.php:103
+msgid "Slider Image (1920x954)"
+msgstr ""
+
+#: inc/metabox.php:104
+msgid "Original Image Size"
+msgstr ""
+
+#: inc/metabox.php:137
+msgid "Check to hide current page's content"
+msgstr ""
+
+#: inc/template-functions.php:288
+#. translators: %s: Name of current post
+msgid "Scroll Up"
+msgstr ""
+
+#: inc/template-tags.php:75
+#. translators: used between list items, there is a space after the comma
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:83
+#. translators: 1: list of categories.
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:104
+#. translators: 1: list of tags.
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:141
+#. translators: %s: post title
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-tags.php:158 template-parts/content/content-page.php:44
+#. translators: %s: Name of current post. Only visible to screen readers
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/template-tags.php:247
+#. translators: 1: before html, 2: after html, 3: list of categories.
+msgid "%1$sPosted in%2$s %3$s"
+msgstr ""
+
+#: inc/template-tags.php:284 template-parts/news-events/events-post-type.php:46
+msgid "No Reviews"
+msgstr ""
+
+#: inc/template-tags.php:284 template-parts/news-events/events-post-type.php:46
+msgid "1 Review"
+msgstr ""
+
+#: inc/template-tags.php:284 template-parts/news-events/events-post-type.php:46
+msgid "% Reviews"
+msgstr ""
+
+#: inc/template-tags.php:284 template-parts/news-events/events-post-type.php:46
+msgid "Reviews are off for this product"
+msgstr ""
+
+#: inc/theme-about.php:31
+msgid "About Theme"
+msgstr ""
+
+#: inc/theme-about.php:59
+msgid "Documentation"
+msgstr ""
+
+#: inc/theme-about.php:61
+msgid "Demo"
+msgstr ""
+
+#: inc/theme-about.php:63
+msgid "Support"
+msgstr ""
+
+#: inc/theme-about.php:73
+msgid "Secondary menu"
+msgstr ""
+
+#: inc/theme-about.php:74
+msgid "About"
+msgstr ""
+
+#: inc/theme-about.php:76
+msgid "Changelog"
+msgstr ""
+
+#: inc/theme-about.php:92
+msgid "Return to Updates"
+msgstr ""
+
+#: inc/theme-about.php:92
+msgid "Return to Dashboard &rarr; Updates"
+msgstr ""
+
+#: inc/theme-about.php:95
+msgid "Go to Dashboard &rarr; Home"
+msgstr ""
+
+#: inc/theme-about.php:95
+msgid "Go to Dashboard"
+msgstr ""
+
+#: inc/theme-about.php:109
+msgid "Theme Customizer"
+msgstr ""
+
+#: inc/theme-about.php:110
+msgid "All Theme Options are available via Customize screen."
+msgstr ""
+
+#: inc/theme-about.php:111
+msgid "Customize"
+msgstr ""
+
+#: inc/theme-about.php:115
+msgid "Got theme support question?"
+msgstr ""
+
+#: inc/theme-about.php:116
+msgid ""
+"Get genuine support from genuine people. Whether it's customization or "
+"compatibility, our seasoned developers deliver tailored solutions to your "
+"queries."
+msgstr ""
+
+#: inc/theme-about.php:117
+msgid "Support Forum"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:28
+msgid "FF: Recent Posts With Thumb"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:46
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:96
+msgid "(no title)"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:156 inc/widgets/social-menu.php:152
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:159
+msgid "Number of posts to show:"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:163
+msgid "Display post date?"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:166
+msgid "Display post thumbnail?"
+msgstr ""
+
+#: inc/widgets/social-menu.php:25
+msgid "Add Social Menu to sidebar"
+msgstr ""
+
+#: inc/widgets/social-menu.php:29
+msgid "FF: Social Menu"
+msgstr ""
+
+#: inc/widgets/social-menu.php:147
+#. translators: %s: URL to create a new menu.
+msgid "No menu available"
+msgstr ""
+
+#: inc/widgets/social-menu.php:156
+msgid "Select Menu:"
+msgstr ""
+
+#: inc/widgets/social-menu.php:158
+msgid "- Select -"
+msgstr ""
+
+#: inc/widgets/social-menu.php:168
+msgid "Edit Menu"
+msgstr ""
+
+#: inc/woocommerce.php:135
+msgid "View your shopping cart"
+msgstr ""
+
+#: single.php:23
+msgid "Previous"
+msgstr ""
+
+#: template-parts/contact-form/content-contact.php:105
+#: template-parts/contact-form/custom-contact.php:85
+msgid "Map"
+msgstr ""
+
+#: template-parts/content/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content/content-none.php:24
+#. translators: 1: link to WP admin new post page.
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content/content-page.php:31
+#: template-parts/content/content-single.php:46
+#: template-parts/content/content.php:61
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content/content-single.php:35
+#: template-parts/content/content.php:50
+#. translators: %s: Name of current post. Only visible to screen readers
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: template-parts/filter-content/filter-content.php:34
+msgid "All"
+msgstr ""
+
+#: template-parts/header/header-five.php:22
+#: template-parts/header/header-four.php:21
+#: template-parts/header/header-one.php:23
+#: template-parts/header/header-seven.php:21
+#: template-parts/header/header-six.php:18
+#: template-parts/header/header-three.php:22
+#: template-parts/header/header-two.php:23
+msgid "Top Bar"
+msgstr ""
+
+#: template-parts/header/header-five.php:35
+#: template-parts/header/header-five.php:69
+#: template-parts/header/header-four.php:34
+#: template-parts/header/header-four.php:64
+#: template-parts/header/header-one.php:35
+#: template-parts/header/header-one.php:70
+#: template-parts/header/header-seven.php:34
+#: template-parts/header/header-seven.php:65
+#: template-parts/header/header-six.php:31
+#: template-parts/header/header-six.php:69
+#: template-parts/header/header-social.php:10
+#: template-parts/header/header-three.php:39
+#: template-parts/header/header-three.php:71
+#: template-parts/header/header-two.php:40
+#: template-parts/header/header-two.php:75
+msgid "Social Links Menu"
+msgstr ""
+
+#: template-parts/header/header-four.php:114
+#: template-parts/header/header-seven.php:117
+#: template-parts/header/header-three.php:103
+msgid "Call Us"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Elite Commerce Pro"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://fireflythemes.com/themes/elite-commerce/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Elite Commerce Pro a multipurpose WordPress theme designed to fit any type "
+"of brand, company, organization or cause. Elite Commerce Pro has all the "
+"features and functionality that any modern WordPress theme needs. It has "
+"features such as full responsive, associate logo, content widget areas "
+"(1,2,3), featured content, hero content, WooCommerce ready, slider, key "
+"features, skills, stats, pricing table, playlist, portfolio, promotion "
+"headline, team, testimonial and so on. With above features it is possible "
+"to create any website, and can be personalized according to your "
+"organization or brand or company. Elite Commerce Pro comes with many demos "
+"which will certainly give you idea about what type of website you would "
+"like to build. It has simple yet stunning design which is light weight as "
+"well. It is a user friendly modern and clean e-commerce theme that will put "
+"your products, prices and deals in the spotlight which will attract more "
+"visitor on your site. Visit https://fireflythemes.com/support for support, "
+"https://fireflythemes.com/documentation/elite-commerce for theme "
+"documentation and https://demo.fireflythemes.com/eliteCommerce for demo."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "FireFly Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://fireflythemes.com/"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Left Sidebar ( Primary Sidebar, Content )"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Page Builder Full Width Template"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Page Builder Full Width with No Header & Footer Template"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Page Builder Full Width with No Sidebar Template"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Right Sidebar ( Content, Primary Sidebar )"
+msgstr ""
+
+#: comments.php:41
+#. translators: 1: comment count number, 2: title.
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/customizer/theme-options.php:71 inc/customizer/theme-options.php:72
+msgctxt "1: Year, 2: Site Title with home URL, 3: Privacy Policy Link"
+msgid "Copyright &copy; %1$s %2$s. All Rights Reserved. %3$s"
+msgstr ""
+
+#: inc/template-tags.php:100
+#. translators: used between list items, there is a space after the comma
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: searchform.php:13
+msgctxt "label"
+msgid "Search for:"
+msgstr ""

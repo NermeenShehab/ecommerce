@@ -1,0 +1,2 @@
+<?php
+ namespace MailPoetVendor\Doctrine\ORM\Mapping; if (!defined('ABSPATH')) exit; use Attribute; use MailPoetVendor\Doctrine\Common\Annotations\Annotation\NamedArgumentConstructor; final class EntityListeners implements \MailPoetVendor\Doctrine\ORM\Mapping\Annotation { public $value = []; public function __construct(array $value = []) { $this->value = $value; } } 
